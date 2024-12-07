@@ -6,7 +6,7 @@ import pandas as pd
 import base64
 import io
 
-# comentario
+# comentario 2
 # Preparar la aplicación Dash con tema Bootstrap
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
