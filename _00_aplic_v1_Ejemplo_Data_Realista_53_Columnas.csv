@@ -1,0 +1,401 @@
+Orden,DNI,Apellido_Paterno,Apellido_Materno,Nombres,Edad,Direccion,Celular,Correo,Ingreso_Anual,Genero,Estado_Civil,Nivel_Educativo,Ocupacion,Fecha_Nacimiento,Nacionalidad,Provincia,Distrito,Centro_Medico,Tipo_Seguro,Fecha_Registro,Historial_Medico,Medicamentos_Recetados,Citas_Anuales,Peso,Altura,IMC,Presion_Arterial,Frecuencia_Cardiaca,Frecuencia_Respiratoria,Temperatura,Grupo_Sanguineo,Factor_RH,Alergias,Cirugias,Vacunas_Al_Dia,Pruebas_Laboratorio,Ultima_Visita,Dias_Hospitalizacion,Horas_Ejercicio_Semanal,Consumo_Alcohol,Tabaquismo,Dieta_Saludable,Nivel_Estres,Nivel_Satisfaccion,Costo_Citas_Anuales,Costo_Tratamiento,Costo_Medicamentos,Satisfaccion_Servicio
+1,57930865,Baxter,Garza,Taylor,58,"52052 Edwards Alley Suite 285
+Olsenbury, TN 61508",+51 982070937,jeffreymartinez@example.com,29660,Femenino,Casado,Primaria,"Engineer, structural",1977-06-29,Malawi,Michigan,Gabriellaville,Centro Médico Familiar,Público,2020-08-13,Ninguno,2,8,77.9,1.77,37.6,105/76,73,15,37.6,AB,-,Alimentos,0,Sí,3,2024-04-10,12,8,Ninguno,No,Sí,2,5,1306,3344,619,4
+2,56323071,Turner,Riddle,Larry,25,"317 Erica Run Suite 773
+West Heatherborough, KS 52260",+51 945812670,taylorjones@example.net,39964,Femenino,Viudo,Técnico,Holiday representative,2001-12-04,Israel,Idaho,North Angela,Clínica Salud,Mixto,2022-02-16,Cardiopatía,3,9,61.2,1.77,28.7,101/77,100,14,36.0,O,+,Medicamentos,0,Sí,3,2024-07-06,2,5,Frecuente,Sí,No,6,3,662,5439,3154,5
+3,71281586,Miller,Graham,Debra,19,"045 Melissa Stream
+Jessicafort, PA 40866",+51 996028436,uporter@example.org,30720,Masculino,Soltero,Universitario,"Designer, interior/spatial",1974-01-24,Djibouti,Wyoming,South Lauraport,Hospital Central,Público,2021-08-03,Cardiopatía,4,5,98.6,1.91,19.5,100/70,69,12,38.8,AB,+,Medicamentos,1,Sí,3,2024-09-05,3,7,Frecuente,Sí,No,8,1,206,9570,2928,2
+4,66569375,Donaldson,Gomez,Lindsey,65,"066 Madison Drives
+Markfurt, FM 84334",+51 955657579,gary94@example.com,14754,Masculino,Casado,Universitario,Cartographer,1945-12-25,Qatar,Alabama,New Jaredfort,Hospital Central,Público,2024-02-23,Hipertensión,5,5,64.9,1.62,20.1,125/73,86,18,36.6,O,+,Ninguna,2,No,3,2024-09-28,8,0,Ocasional,No,Sí,8,10,987,8379,3806,2
+5,27475180,Russell,Kelley,Paul,35,"7727 Jacqueline Squares
+Welchfort, OK 78054",+51 924972279,boonesharon@example.org,10610,Masculino,Casado,Universitario,Photographer,2002-05-04,India,Alabama,West Rebecca,Centro Médico Familiar,Público,2020-11-01,Cardiopatía,3,8,64.5,1.67,38.4,119/67,99,12,36.4,O,-,Polen,0,Sí,9,2024-09-04,4,10,Ninguno,No,Sí,3,5,1611,7750,4083,2
+6,68585495,Johnson,Cantu,Grant,33,"9457 Moore Parks
+Josephville, PA 34218",+51 949392920,harmonryan@example.net,40034,Masculino,Casado,Secundaria,Stage manager,1967-11-30,Peru,Nebraska,Williamstown,Hospital Central,Privado,2021-01-17,Diabetes,1,4,60.4,1.64,37.8,115/80,88,15,38.2,O,+,Alimentos,1,No,5,2024-11-18,2,8,Ocasional,Sí,No,5,10,1875,4919,4207,4
+7,13210542,Glenn,Wood,Brooke,32,"0669 Bartlett Trafficway Suite 909
+Port Kristin, VI 94318",+51 968353204,davenportamy@example.org,46896,Femenino,Divorciado,Universitario,"Teacher, music",1969-09-05,French Southern Territories,Nevada,Brettburgh,Hospital Central,Mixto,2021-05-22,Hipertensión,5,7,85.2,1.97,30.6,101/65,73,20,38.8,A,-,Medicamentos,2,Sí,2,2024-01-20,12,6,Frecuente,Sí,No,6,5,1797,3859,4414,3
+8,27661889,Schmidt,Johnson,Isaiah,26,"2568 Tara Mountain
+Port Amandafort, SC 29291",+51 931227574,ballsusan@example.net,16552,Masculino,Viudo,Primaria,"Administrator, arts",1969-05-28,Togo,Hawaii,South Brianbury,Hospital Central,Privado,2022-06-17,Cardiopatía,3,5,65.9,1.86,19.2,130/81,65,17,38.5,B,+,Alimentos,3,No,1,2024-05-05,9,2,Ninguno,No,No,10,1,1187,1616,1105,5
+9,53321010,Schultz,Chandler,Rhonda,65,"8101 Joseph Dam Apt. 293
+Landrymouth, OH 68614",+51 970897765,bshea@example.org,14801,Masculino,Viudo,Secundaria,Financial adviser,1968-07-22,Lao People's Democratic Republic,Virginia,Rachelberg,Clínica Salud,Público,2022-01-25,Cardiopatía,2,8,67.4,1.56,38.5,117/72,66,12,37.0,AB,+,Medicamentos,3,Sí,1,2024-04-03,7,0,Ocasional,Sí,Sí,10,8,448,3949,3951,4
+10,36500719,Mcdowell,James,Theresa,24,"952 Jackson Gardens Suite 499
+West Diamondborough, AL 61920",+51 910435578,laura02@example.net,45234,Femenino,Soltero,Técnico,Technical sales engineer,1983-02-27,Saint Helena,Alaska,Lake Kim,Hospital Central,Público,2023-01-26,Ninguno,3,2,96.7,1.9,25.3,91/83,68,17,36.1,O,+,Alimentos,3,Sí,1,2024-10-29,7,9,Frecuente,No,Sí,3,10,1361,9190,4457,1
+11,37637626,Randall,Richardson,Betty,61,"85983 Amber Port
+Aprilton, WV 73213",+51 945351479,anthony58@example.net,23969,Masculino,Casado,Primaria,Community arts worker,1972-08-29,Guatemala,Arkansas,Whitakermouth,Centro Médico Familiar,Privado,2021-08-30,Hipertensión,0,1,89.8,1.71,39.2,129/88,67,12,37.8,B,+,Ninguna,3,No,10,2024-11-14,9,5,Frecuente,Sí,Sí,9,3,1296,2442,4465,3
+12,37078494,Best,Fitzpatrick,Michael,65,"1208 Jones Light
+Myersside, NM 87386",+51 977187530,hlawrence@example.com,43153,Masculino,Viudo,Universitario,"Surveyor, insurance",1981-10-29,Lesotho,Kentucky,West Allen,Clínica Salud,Público,2024-09-09,Diabetes,5,3,63.7,1.88,31.1,102/74,97,18,38.8,O,+,Ninguna,3,No,10,2024-08-12,14,9,Ninguno,Sí,Sí,2,10,935,5934,2494,5
+13,44161875,Bowers,Tucker,Joshua,75,"8097 Brittany Keys
+Juliaborough, NH 92360",+51 933978249,jeffreyjohnson@example.com,27380,Masculino,Casado,Primaria,Financial trader,1989-08-23,South Africa,Kentucky,Ericachester,Hospital Central,Mixto,2023-12-09,Cardiopatía,2,8,56.1,1.94,34.7,127/73,84,16,38.3,A,-,Polen,2,No,7,2024-03-03,4,3,Ocasional,No,Sí,7,1,882,6699,3802,3
+14,17704802,Stanley,Buckley,Tonya,52,"USS Vasquez
+FPO AP 34192",+51 978139880,dorothy28@example.com,18680,Femenino,Viudo,Universitario,"Restaurant manager, fast food",1956-09-27,Singapore,Illinois,Lake Crystalside,Hospital Central,Mixto,2020-01-04,Ninguno,4,7,83.8,1.51,33.8,114/60,82,13,38.5,O,-,Ninguna,0,Sí,9,2024-03-01,4,5,Frecuente,No,No,2,5,1596,7861,3115,4
+15,25447430,Washington,Sexton,Hannah,23,"76513 Brown Villages
+Nicholsonchester, ID 07767",+51 924282218,tstevens@example.net,32872,Masculino,Casado,Primaria,Air traffic controller,1986-08-31,Monaco,Michigan,Kellerberg,Clínica Salud,Mixto,2022-07-15,Cardiopatía,3,8,69.0,1.6,27.1,135/66,87,15,38.6,AB,+,Medicamentos,3,Sí,0,2024-02-04,5,1,Frecuente,No,No,6,10,820,1074,637,5
+16,66028915,Stephens,Martin,Amber,55,"447 Phillips Ridge Suite 503
+Lake Stephanie, MN 30289",+51 993926371,kellyjones@example.com,14508,Femenino,Viudo,Secundaria,Community development worker,1948-05-19,Guinea,Minnesota,Higginsburgh,Hospital Central,Público,2024-05-13,Hipertensión,2,8,99.0,1.55,20.2,103/68,80,20,38.9,B,+,Medicamentos,0,No,8,2024-10-12,0,10,Ninguno,No,No,9,1,1020,4860,1642,4
+17,24515582,Porter,Kramer,Kayla,45,"1333 Sanders Wells
+Lake Robert, MD 08229",+51 950056581,mary49@example.com,26009,Femenino,Soltero,Universitario,Theatre manager,1980-02-09,Ukraine,South Dakota,New Amandabury,Hospital Central,Mixto,2023-01-02,Diabetes,5,4,90.9,1.52,22.0,138/82,68,15,37.1,A,-,Medicamentos,0,Sí,0,2024-03-11,1,8,Ninguno,Sí,No,2,5,313,4144,3850,2
+18,26630417,Crosby,Miller,Kristie,20,"3550 Acosta Route Suite 136
+Ashleystad, MN 38208",+51 995758349,williamscaitlin@example.com,34217,Femenino,Casado,Secundaria,Art therapist,2000-03-15,Macao,New Hampshire,Millerport,Centro Médico Familiar,Mixto,2020-03-20,Ninguno,0,6,97.7,1.8,23.7,140/62,75,18,38.8,O,-,Medicamentos,0,Sí,7,2024-09-26,11,6,Ninguno,Sí,No,5,8,1494,2925,815,1
+19,79696659,Davis,Small,Lawrence,19,"67096 Dalton Ridges Apt. 817
+Clineshire, WI 20696",+51 978137358,huertaholly@example.net,28676,Femenino,Viudo,Primaria,Tree surgeon,2001-06-17,Lesotho,Colorado,North Christianberg,Clínica Salud,Público,2020-04-16,Cardiopatía,0,10,90.2,1.85,36.4,126/63,77,19,37.2,AB,+,Ninguna,0,No,5,2024-02-07,10,3,Frecuente,Sí,No,9,2,1525,9686,756,1
+20,22385901,Gibson,Murray,Jennifer,23,"08376 Joseph Valleys Suite 332
+East David, LA 01873",+51 991734598,melanienielsen@example.net,20338,Femenino,Soltero,Universitario,Academic librarian,1978-02-07,Namibia,Vermont,Bowmanbury,Centro Médico Familiar,Privado,2020-09-19,Diabetes,5,3,64.5,1.52,26.9,124/65,65,12,36.3,AB,+,Ninguna,0,Sí,9,2024-07-18,15,8,Frecuente,Sí,Sí,8,3,385,2567,3300,2
+21,61395176,Davis,Murphy,Joseph,31,"2212 Colleen Flats Suite 748
+Sethport, WY 62148",+51 936697396,raymichael@example.net,38716,Masculino,Soltero,Técnico,"Designer, exhibition/display",1987-08-31,Tonga,New Mexico,New Erikmouth,Hospital Central,Privado,2024-10-30,Cardiopatía,5,6,64.4,1.87,37.8,113/70,75,14,36.9,A,+,Polen,2,No,5,2024-01-14,14,10,Ocasional,Sí,No,7,9,948,6929,1564,3
+22,40728937,Campbell,Garrett,Alicia,32,"280 Kara Viaduct Apt. 783
+Tylerfurt, AR 73791",+51 930513739,qmeyer@example.org,45600,Femenino,Viudo,Técnico,Magazine features editor,1984-04-29,Congo,Connecticut,Grimesville,Centro Médico Familiar,Público,2023-06-26,Cardiopatía,3,6,85.7,1.7,25.6,102/74,95,16,36.4,AB,-,Alimentos,0,No,7,2024-04-18,8,7,Ocasional,No,No,10,2,1294,9842,2462,3
+23,84299160,Lowe,Newman,Linda,50,"237 Carl Loop
+Johnsonbury, TN 45848",+51 960185867,julie91@example.net,29825,Femenino,Casado,Universitario,"Research officer, trade union",1963-07-20,Peru,Colorado,Williamsfurt,Hospital Central,Mixto,2020-05-21,Hipertensión,2,6,67.3,1.62,34.7,97/68,98,13,36.5,AB,-,Polen,2,Sí,9,2024-05-31,14,8,Frecuente,Sí,No,7,5,1947,9315,730,4
+24,73693891,Rogers,Smith,Christopher,56,"816 Wood Mountain Suite 122
+West Teresaborough, PR 44366",+51 931682744,xnelson@example.org,44664,Femenino,Divorciado,Primaria,Transport planner,1968-11-02,Nepal,South Dakota,West April,Clínica Salud,Privado,2022-07-23,Hipertensión,4,7,72.1,1.61,21.5,132/87,98,12,38.8,AB,-,Alimentos,2,Sí,4,2024-07-05,4,2,Frecuente,No,Sí,4,5,896,4592,995,1
+25,44049277,Reed,Mueller,Damon,19,"3758 Cooper Turnpike Apt. 527
+Meredithfurt, CT 77415",+51 982394227,evanjones@example.net,10512,Masculino,Soltero,Técnico,Academic librarian,1975-09-30,Syrian Arab Republic,North Carolina,East Scott,Clínica Salud,Privado,2023-11-30,Cardiopatía,5,3,62.8,1.93,39.8,121/76,98,15,38.4,AB,-,Ninguna,0,No,7,2024-07-07,5,9,Frecuente,Sí,Sí,10,3,364,8605,1449,3
+26,71982039,Robinson,Baxter,Lisa,53,"USNS Hurst
+FPO AP 46695",+51 981182864,kayla38@example.org,46346,Femenino,Soltero,Universitario,Pensions consultant,1995-04-22,Antarctica (the territory South of 60 deg S),Maryland,New Anna,Clínica Salud,Privado,2022-07-15,Ninguno,5,6,74.0,1.53,34.1,130/70,78,20,38.9,O,-,Medicamentos,2,No,2,2024-09-27,14,4,Ninguno,Sí,No,4,10,1922,4409,2360,4
+27,21311891,Knight,Martin,Vincent,30,"6712 Elizabeth Crest
+Carterstad, OH 14739",+51 910076758,kyle02@example.net,29620,Femenino,Viudo,Técnico,Clinical molecular geneticist,1969-02-08,Cape Verde,Florida,New Stephanieville,Centro Médico Familiar,Público,2022-10-25,Hipertensión,1,9,60.1,1.75,29.3,128/72,61,18,37.9,A,+,Polen,3,Sí,8,2024-01-12,13,5,Ninguno,No,Sí,9,5,1141,5528,1017,2
+28,18672024,Young,Hall,Darrell,63,"371 Courtney Mill
+Perryville, IN 18879",+51 990388981,robertsummers@example.net,16788,Masculino,Divorciado,Universitario,Secondary school teacher,1974-03-07,Dominican Republic,Iowa,Jonesbury,Centro Médico Familiar,Privado,2022-11-29,Hipertensión,0,9,76.9,1.64,39.4,129/72,79,17,36.5,B,-,Polen,3,Sí,4,2024-02-19,9,6,Ocasional,Sí,Sí,3,5,1757,1869,1312,4
+29,55712481,Alvarez,Martinez,Joseph,59,"3580 Ann Curve Suite 488
+Port Michelle, FL 52577",+51 953507489,roger16@example.org,18800,Femenino,Divorciado,Primaria,"Nurse, learning disability",1946-05-14,Dominica,Kansas,New Clayton,Hospital Central,Privado,2024-08-10,Hipertensión,1,2,96.7,1.91,19.7,127/63,73,19,38.9,B,-,Ninguna,3,Sí,6,2024-08-05,11,10,Ocasional,Sí,Sí,8,5,1769,4173,4165,2
+30,23118215,Ramirez,Keller,Elizabeth,62,"69041 Joseph Flat
+East Amanda, WY 71727",+51 975579548,scottlee@example.net,27332,Femenino,Divorciado,Primaria,"Designer, textile",1987-11-24,Bangladesh,Iowa,Justinmouth,Clínica Salud,Público,2020-10-14,Hipertensión,4,6,84.8,1.87,27.9,112/71,93,13,38.1,AB,-,Alimentos,0,Sí,3,2024-02-01,15,5,Ocasional,Sí,Sí,7,1,793,2846,1332,1
+31,66781117,Evans,Hernandez,Louis,52,"5153 Jeffrey Parkways Suite 134
+Garciahaven, VI 62702",+51 912614124,quinntimothy@example.com,17564,Masculino,Viudo,Secundaria,"Therapist, sports",1998-10-19,Pakistan,Nevada,Isaacmouth,Centro Médico Familiar,Público,2020-05-23,Diabetes,5,4,56.9,1.66,36.5,119/79,98,13,38.8,O,+,Polen,3,No,9,2024-01-23,7,1,Ninguno,No,No,2,2,1526,3444,1773,1
+32,91116026,King,Barnett,Janet,44,"95275 Mary Square Suite 478
+Lake Michael, GU 10944",+51 925014631,rojascheyenne@example.org,17014,Femenino,Casado,Técnico,Clinical cytogeneticist,1970-07-28,Jamaica,Illinois,North Jonathonbury,Hospital Central,Público,2021-10-03,Cardiopatía,3,8,80.8,1.8,25.8,101/86,92,20,38.4,AB,+,Alimentos,1,Sí,2,2024-11-21,2,1,Ninguno,Sí,Sí,6,10,615,8772,4365,3
+33,79399060,Berry,Griffith,Christopher,32,"3094 Michael Inlet Apt. 704
+Lake Brittany, MI 03516",+51 958718453,vlopez@example.com,46256,Masculino,Soltero,Secundaria,"Development worker, international aid",1960-03-16,Tuvalu,Connecticut,West Donna,Centro Médico Familiar,Privado,2020-07-12,Diabetes,0,2,79.3,1.84,35.0,133/82,72,14,36.7,AB,-,Polen,1,Sí,0,2024-09-28,14,8,Ocasional,Sí,Sí,4,3,561,9151,285,4
+34,18928161,Mitchell,West,Jennifer,46,"6308 Davis Rest
+North Annettefurt, OH 57865",+51 951273847,rpruitt@example.net,20187,Femenino,Viudo,Primaria,"Accountant, chartered certified",1978-04-05,Armenia,Pennsylvania,Teresaton,Hospital Central,Privado,2021-06-06,Diabetes,1,5,62.1,1.66,39.0,109/89,85,18,37.8,O,+,Medicamentos,1,Sí,8,2024-09-01,9,10,Ninguno,No,No,10,10,1335,3888,2501,1
+35,36068963,Guerrero,Hoover,Leslie,55,"75055 Travis Plains
+West Ericfort, MN 05498",+51 942138745,pkirk@example.org,27848,Femenino,Divorciado,Universitario,Prison officer,2000-08-12,Saint Martin,Maryland,North Anthonyberg,Centro Médico Familiar,Público,2020-04-18,Cardiopatía,0,8,83.5,1.65,27.0,129/78,78,13,36.5,A,+,Ninguna,3,No,6,2024-05-13,11,1,Ocasional,No,No,7,3,280,3617,3512,5
+36,70598827,Young,Green,Melissa,35,"239 Gina Manor
+Amyberg, FL 10140",+51 917774584,kempnicholas@example.org,28465,Femenino,Soltero,Primaria,Air traffic controller,1984-05-25,Cote d'Ivoire,Connecticut,Emilytown,Centro Médico Familiar,Mixto,2024-10-03,Hipertensión,1,4,76.6,1.57,35.1,95/81,63,12,36.9,B,+,Alimentos,2,Sí,7,2024-01-03,13,0,Frecuente,No,Sí,7,8,986,1706,4535,3
+37,69563094,Snyder,Ramos,Harry,69,"PSC 0210, Box 5077
+APO AE 70712",+51 942329237,calvinclark@example.net,49638,Masculino,Soltero,Primaria,"Engineer, mining",1982-10-19,Costa Rica,Delaware,North Timothy,Centro Médico Familiar,Público,2024-09-11,Ninguno,5,3,81.9,1.83,19.1,98/70,75,18,38.1,O,+,Ninguna,1,Sí,8,2024-09-11,8,2,Frecuente,No,No,10,6,1553,1885,1181,5
+38,96831875,Stein,Morgan,Garrett,73,"610 Spencer Trail Apt. 744
+Morrisside, ND 28825",+51 986149359,david68@example.org,23803,Masculino,Divorciado,Universitario,Field trials officer,1964-12-20,Puerto Rico,Illinois,East Justinport,Clínica Salud,Privado,2024-02-17,Hipertensión,2,2,52.6,1.61,24.4,97/67,91,14,36.4,B,+,Ninguna,2,Sí,0,2024-05-28,4,2,Ninguno,No,No,6,3,591,6966,3982,4
+39,73719163,English,Barrett,Valerie,18,"0547 Randy Circles
+South Bobby, TX 98694",+51 920570592,wadams@example.com,32471,Masculino,Divorciado,Secundaria,Customer service manager,1975-05-23,British Indian Ocean Territory (Chagos Archipelago),Nevada,Crawfordmouth,Clínica Salud,Privado,2022-11-27,Hipertensión,2,1,70.7,1.65,39.8,109/63,84,15,38.2,O,+,Alimentos,2,No,8,2024-04-29,9,0,Frecuente,No,Sí,9,5,812,5670,2940,5
+40,97767775,Schultz,Cantu,Elizabeth,66,"PSC 7702, Box 5021
+APO AP 59112",+51 921496211,vpeters@example.net,23342,Masculino,Soltero,Técnico,Technical brewer,1955-09-14,Nicaragua,New Hampshire,North Douglas,Centro Médico Familiar,Público,2022-03-07,Hipertensión,3,5,85.9,1.53,29.0,101/71,67,16,38.8,O,+,Alimentos,0,Sí,5,2024-02-28,0,3,Ocasional,Sí,Sí,4,4,1625,4433,3541,4
+41,14306814,Lewis,Roth,Hayley,69,"USNS Mercado
+FPO AP 64049",+51 975228535,haroldtaylor@example.com,27300,Femenino,Soltero,Primaria,Associate Professor,1995-12-12,Heard Island and McDonald Islands,South Carolina,Lake Tiffanymouth,Hospital Central,Mixto,2021-03-30,Hipertensión,4,7,55.0,1.97,26.1,134/64,75,16,38.8,AB,+,Polen,1,Sí,6,2024-07-02,0,1,Ocasional,Sí,Sí,3,8,998,8121,3736,3
+42,69756269,Gallagher,Kelly,Jacqueline,28,"859 Victoria Ports Apt. 280
+Danielstad, AZ 34720",+51 919289546,stevenhenderson@example.net,43122,Masculino,Casado,Primaria,Paediatric nurse,1998-05-20,Uruguay,Nevada,Sanchezton,Hospital Central,Mixto,2023-07-13,Ninguno,0,10,88.5,1.94,38.7,122/72,91,17,37.2,A,-,Alimentos,0,No,10,2024-02-13,4,7,Ninguno,Sí,No,2,3,418,5118,275,4
+43,99875757,Schwartz,Brown,Ian,62,"1194 Price Fords
+South Stephenfort, PA 89118",+51 981498611,adam03@example.org,42016,Masculino,Casado,Técnico,Solicitor,2005-05-27,Isle of Man,Connecticut,Matthewbury,Clínica Salud,Privado,2020-10-22,Diabetes,4,7,50.3,1.96,27.8,116/79,100,18,39.0,B,+,Ninguna,0,No,2,2024-08-11,11,3,Ocasional,Sí,No,10,9,1491,6477,2488,1
+44,24559251,Miller,Robinson,Javier,45,"7041 Robinson Forge
+Lanceberg, AL 43332",+51 926879290,robinsonjacob@example.org,26457,Masculino,Viudo,Primaria,Forensic psychologist,1971-06-02,Turkmenistan,Tennessee,East Brandi,Clínica Salud,Mixto,2023-12-31,Ninguno,1,4,77.5,1.81,33.1,98/78,98,17,38.9,A,-,Ninguna,0,No,7,2024-10-01,9,1,Frecuente,Sí,Sí,8,1,1610,8424,1648,3
+45,76868472,Perry,Brown,Raymond,39,"Unit 3760 Box 1364
+DPO AA 65077",+51 927232410,thomasjonathan@example.com,13329,Femenino,Soltero,Técnico,Diplomatic Services operational officer,1986-04-05,Martinique,Alabama,East Andrewberg,Clínica Salud,Mixto,2022-09-30,Cardiopatía,5,3,96.5,1.71,32.7,114/73,64,17,36.1,AB,-,Alimentos,3,Sí,1,2024-03-19,15,0,Ocasional,Sí,No,2,6,935,1709,615,5
+46,69293055,Stark,Huynh,Misty,35,"7802 Heather Harbor
+Lake Justin, NM 40972",+51 998550256,jeremy92@example.net,16048,Femenino,Casado,Técnico,Geoscientist,1994-01-06,Uruguay,North Dakota,Lake Kathleenhaven,Centro Médico Familiar,Mixto,2021-03-23,Hipertensión,3,6,70.3,1.75,20.3,101/75,93,19,37.8,O,+,Alimentos,0,No,8,2024-06-20,0,9,Frecuente,No,No,10,2,1196,2710,280,5
+47,53796257,Henderson,Stark,Peter,27,"590 Harris Cove Apt. 954
+Bridgetstad, OK 38051",+51 973791320,xquinn@example.org,37759,Femenino,Soltero,Técnico,Broadcast presenter,1978-08-06,Vietnam,Alabama,Kevinfort,Hospital Central,Público,2020-01-21,Ninguno,2,10,96.8,1.99,31.8,130/77,60,16,38.8,B,+,Polen,2,Sí,7,2024-05-02,15,10,Ninguno,Sí,No,10,3,373,1859,2003,1
+48,37825662,Aguirre,Chaney,Justin,31,"8834 Evans Falls
+North Allisonfort, MA 73526",+51 983793389,michael03@example.org,28132,Femenino,Divorciado,Universitario,Warden/ranger,1997-09-17,Malaysia,Vermont,North Bryan,Clínica Salud,Privado,2021-12-29,Cardiopatía,2,6,93.9,1.97,35.7,134/89,83,15,38.9,A,+,Polen,1,No,5,2024-08-03,15,6,Ninguno,Sí,Sí,8,10,1495,9804,4356,3
+49,27421521,Simpson,Lawson,Kristin,79,"USNV Bishop
+FPO AP 78633",+51 932162965,jaredrobinson@example.com,12889,Femenino,Casado,Secundaria,Product manager,1987-10-08,Palau,Rhode Island,Port Joseph,Centro Médico Familiar,Público,2020-06-10,Ninguno,3,4,73.9,1.84,33.8,131/89,80,13,36.7,B,+,Polen,2,No,0,2024-09-13,9,10,Ocasional,Sí,Sí,6,3,1096,3881,2851,2
+50,51945578,Clay,Wall,Sarah,66,"5630 James Stravenue Apt. 187
+Port Keithberg, NC 13091",+51 945575298,vrios@example.com,10232,Masculino,Divorciado,Secundaria,Barista,1949-12-11,Bouvet Island (Bouvetoya),Massachusetts,Jonesmouth,Clínica Salud,Mixto,2023-10-20,Hipertensión,0,3,60.0,1.89,20.3,101/77,68,15,37.7,B,+,Ninguna,1,No,0,2024-11-14,0,7,Frecuente,Sí,No,9,8,1705,3589,3472,5
+51,31775135,Gardner,Jones,Nathan,39,"60065 Tracy Lights
+East Cynthia, SD 76605",+51 980823176,mramirez@example.org,31859,Masculino,Divorciado,Universitario,Orthoptist,1999-03-22,France,South Carolina,North Jenniferhaven,Hospital Central,Privado,2022-02-16,Hipertensión,4,8,98.2,1.66,21.8,100/75,84,14,38.8,B,+,Alimentos,3,Sí,10,2024-01-03,13,8,Ninguno,No,No,2,7,588,1476,4840,1
+52,98558468,Rodriguez,Reese,Ashley,24,"4981 Cindy Inlet
+West Bradley, HI 28454",+51 991415657,erin81@example.net,18573,Femenino,Divorciado,Secundaria,Medical laboratory scientific officer,1950-03-03,Lesotho,Hawaii,Port Meaganchester,Hospital Central,Público,2021-04-12,Cardiopatía,1,9,66.1,1.71,33.8,108/64,96,13,36.4,A,-,Medicamentos,1,No,3,2024-04-14,9,9,Ocasional,Sí,No,8,7,486,8947,2908,2
+53,56251346,Perez,Love,Cindy,23,"490 Tina Centers
+New Dakota, AL 31512",+51 966792612,sweeneysusan@example.com,27167,Femenino,Viudo,Secundaria,Firefighter,1971-11-03,Oman,Idaho,Lake Taylortown,Clínica Salud,Privado,2024-03-08,Ninguno,4,8,82.3,1.57,32.1,101/70,86,14,38.2,B,-,Alimentos,1,Sí,6,2024-05-27,7,9,Ocasional,No,Sí,3,4,273,9436,2773,3
+54,91463394,Walker,Griffin,Barbara,42,"1034 Allison Divide Apt. 655
+Lake Paul, LA 89513",+51 938427073,griffithsarah@example.net,20589,Masculino,Divorciado,Secundaria,Psychiatrist,1992-12-03,Dominica,New Jersey,Davidborough,Centro Médico Familiar,Público,2021-07-09,Hipertensión,2,8,95.4,1.69,34.4,118/79,83,13,36.7,A,-,Alimentos,1,No,9,2024-08-09,0,4,Frecuente,Sí,Sí,5,8,595,2901,4082,4
+55,25219843,Castillo,Velez,Elizabeth,24,"3480 Silva Track
+West Juliaside, NY 69600",+51 982383095,ugallegos@example.com,38956,Femenino,Viudo,Primaria,"Psychologist, occupational",1996-05-30,Uruguay,New Jersey,Lonniehaven,Hospital Central,Privado,2024-04-30,Cardiopatía,3,5,54.5,1.88,25.3,93/87,94,14,38.9,O,+,Polen,1,No,1,2024-08-09,11,0,Frecuente,No,Sí,7,3,251,2160,4960,2
+56,40668058,Morgan,Brown,Lauren,40,"00432 Jill Pike
+North Scottland, RI 91832",+51 936998038,tarahall@example.org,46154,Femenino,Soltero,Universitario,Research scientist (physical sciences),1944-08-18,Belarus,New Jersey,New Matthew,Hospital Central,Público,2024-01-19,Ninguno,2,8,78.7,1.74,20.8,112/90,71,19,36.5,A,-,Medicamentos,2,Sí,5,2024-03-30,6,5,Ninguno,No,No,2,4,1674,4855,4443,3
+57,53292269,Reed,Carpenter,Melissa,72,"9340 Leah Locks
+East Ashley, DE 52118",+51 951837852,arnoldwilliam@example.org,38028,Masculino,Soltero,Secundaria,Insurance underwriter,1969-12-14,Saint Barthelemy,North Carolina,South Joshua,Hospital Central,Mixto,2022-12-08,Ninguno,5,1,76.8,1.92,18.6,90/75,90,19,38.7,AB,-,Alimentos,1,Sí,5,2024-09-13,13,3,Frecuente,Sí,No,10,10,1414,8287,4593,2
+58,35987190,Walter,Cain,Shelby,40,"5202 Ann Groves
+East Damon, OH 63951",+51 963551839,panderson@example.com,46759,Femenino,Casado,Universitario,Video editor,1946-07-15,Cameroon,South Carolina,Port Elizabeth,Clínica Salud,Público,2023-07-14,Cardiopatía,2,2,86.2,1.65,25.1,98/66,64,17,36.3,B,+,Medicamentos,0,No,9,2024-09-23,13,9,Frecuente,No,No,2,6,688,6340,3747,1
+59,68596382,Nelson,Melton,Abigail,56,"422 Wright Ford
+New Mollyberg, VA 08473",+51 997225156,nicole35@example.com,10633,Femenino,Casado,Secundaria,"Exhibitions officer, museum/gallery",2005-02-28,Faroe Islands,Kentucky,Port Davidmouth,Centro Médico Familiar,Mixto,2023-05-13,Ninguno,1,7,96.8,1.85,26.2,114/90,61,18,38.1,AB,+,Medicamentos,1,No,4,2024-11-21,12,1,Frecuente,No,No,10,1,1201,7865,3851,3
+60,13133326,Brennan,Turner,Matthew,34,"459 Lam Hollow
+Derrickborough, UT 96369",+51 960119651,nmcconnell@example.org,17331,Femenino,Viudo,Secundaria,Actor,1977-12-05,Tanzania,Tennessee,Ryanstad,Centro Médico Familiar,Público,2020-01-25,Ninguno,0,9,95.7,1.9,24.3,125/76,97,13,37.9,AB,+,Alimentos,0,No,2,2024-01-23,7,0,Frecuente,No,Sí,7,5,996,4256,2591,3
+61,75242854,Washington,Sanchez,Christopher,69,"916 Dyer Locks
+Lindsaybury, LA 65361",+51 968800797,nmiller@example.com,14931,Femenino,Soltero,Universitario,Teaching laboratory technician,2006-08-03,Brazil,Idaho,Austinborough,Centro Médico Familiar,Mixto,2023-01-14,Hipertensión,0,8,58.8,1.96,21.3,131/75,64,20,38.7,O,-,Polen,3,Sí,8,2024-11-21,5,3,Ninguno,Sí,Sí,6,2,329,6336,4746,4
+62,22467481,Oconnor,Francis,Brent,20,"90608 Donna Stream Suite 892
+Tammyside, AZ 86207",+51 979467853,josebrown@example.org,19768,Masculino,Casado,Técnico,Community education officer,1946-03-12,Moldova,Georgia,Lake Mark,Centro Médico Familiar,Mixto,2021-03-15,Hipertensión,5,4,94.1,1.78,22.5,116/81,60,17,37.3,O,-,Polen,0,Sí,4,2024-09-02,12,10,Ninguno,Sí,No,8,1,1823,4769,1180,3
+63,35032780,Perez,Williams,Jennifer,64,"Unit 1865 Box 6877
+DPO AA 44253",+51 970597444,rachel46@example.org,45755,Femenino,Casado,Universitario,Company secretary,1946-09-01,Palau,Vermont,Murrayview,Centro Médico Familiar,Público,2020-11-16,Hipertensión,1,4,58.8,1.98,28.2,121/73,76,15,36.8,A,+,Alimentos,2,Sí,3,2024-08-22,12,7,Ninguno,Sí,Sí,1,3,1307,2804,2610,1
+64,24195328,Mills,Bass,Andrew,47,"PSC 9549, Box 1688
+APO AP 17641",+51 926240908,morrowclaudia@example.org,12361,Masculino,Casado,Técnico,Public house manager,1959-09-26,Bangladesh,Louisiana,Coleport,Clínica Salud,Público,2023-08-08,Cardiopatía,3,10,96.0,1.78,30.4,135/86,73,19,36.7,A,-,Medicamentos,0,Sí,4,2024-10-20,7,1,Ocasional,Sí,No,2,8,1517,6343,1506,3
+65,90265859,Wade,Holland,Samuel,52,"8893 Donna Expressway
+East Amyberg, VI 01998",+51 943273328,stephaniebrock@example.net,34196,Femenino,Soltero,Primaria,Research scientist (medical),2001-10-18,Bolivia,Idaho,Phillipston,Clínica Salud,Privado,2021-05-16,Diabetes,4,6,99.9,1.57,27.3,118/75,62,16,36.2,B,+,Medicamentos,2,Sí,7,2024-08-06,8,7,Ocasional,Sí,No,4,7,830,4731,2229,3
+66,88632406,Smith,Lee,Dawn,25,"USNS Romero
+FPO AA 85994",+51 940158366,amiller@example.org,48175,Femenino,Casado,Universitario,Electrical engineer,1979-03-15,Denmark,Nevada,Katherineview,Centro Médico Familiar,Público,2022-12-01,Ninguno,3,1,69.8,1.62,19.1,100/62,63,19,36.8,AB,-,Polen,0,No,9,2024-11-05,2,10,Ocasional,No,No,3,8,1223,2606,1957,5
+67,33359204,Burns,Kim,Jessica,80,"171 Maria Freeway
+Robinsonton, NY 60965",+51 918593410,spearskimberly@example.com,46210,Femenino,Soltero,Técnico,Biomedical engineer,1999-05-01,Austria,New Mexico,Hernandezborough,Centro Médico Familiar,Privado,2022-12-10,Cardiopatía,4,1,74.8,1.6,26.1,126/60,85,16,36.3,O,+,Polen,1,Sí,5,2024-06-24,13,0,Frecuente,Sí,No,10,5,1293,4884,4066,1
+68,32713884,Howard,Wolfe,Kevin,77,"716 Jessica Groves Apt. 469
+Port Jacqueline, MN 75003",+51 955377076,zjohnson@example.com,19705,Masculino,Divorciado,Secundaria,Insurance underwriter,1950-10-10,Latvia,West Virginia,Port Patriciatown,Clínica Salud,Público,2020-04-24,Diabetes,0,5,96.8,1.82,20.5,140/84,92,13,36.0,O,+,Polen,3,No,5,2024-06-16,7,5,Frecuente,No,Sí,1,8,1908,7759,3146,5
+69,91137013,Hill,Murphy,Mark,42,"002 April Route Suite 375
+Patelside, NC 18721",+51 912823170,jenniferclark@example.com,38166,Femenino,Divorciado,Primaria,Manufacturing systems engineer,1984-08-26,Azerbaijan,Oregon,New Patriciabury,Clínica Salud,Privado,2020-03-02,Diabetes,2,8,98.1,1.96,31.4,104/69,78,13,37.2,B,-,Medicamentos,2,No,2,2024-09-25,8,8,Ninguno,No,No,3,9,1862,4276,2460,2
+70,31426920,Elliott,Erickson,Colleen,23,"03884 Lam Cape Suite 533
+Christinamouth, IL 12041",+51 988961459,donnamorris@example.com,18352,Femenino,Divorciado,Universitario,Printmaker,1967-06-21,Russian Federation,Nevada,Lake Stephanieberg,Centro Médico Familiar,Mixto,2022-05-31,Cardiopatía,2,10,96.3,1.92,25.5,92/68,100,14,38.2,O,+,Medicamentos,2,No,7,2024-10-17,9,6,Ninguno,Sí,No,3,4,1120,7152,487,2
+71,53320465,Richardson,Patterson,David,53,"34437 Campbell Courts
+South Mike, NY 72754",+51 984346088,afarley@example.org,12741,Femenino,Viudo,Técnico,Learning disability nurse,1961-04-06,Cape Verde,California,Kyleport,Centro Médico Familiar,Público,2020-12-08,Diabetes,5,8,93.8,1.55,26.8,104/77,92,16,38.9,AB,+,Polen,1,Sí,6,2024-04-19,8,5,Frecuente,Sí,Sí,8,7,233,4615,1315,1
+72,14843017,Clark,Maldonado,Nathan,36,"406 Joshua Junctions Apt. 807
+East Cheryl, MH 79032",+51 940885476,susanruiz@example.net,30202,Masculino,Soltero,Técnico,"Teacher, special educational needs",1950-05-11,Zambia,Tennessee,North Kennethland,Clínica Salud,Mixto,2020-07-26,Hipertensión,3,5,50.5,1.86,24.8,108/65,86,12,38.7,AB,-,Polen,1,Sí,3,2024-02-12,13,0,Ocasional,Sí,Sí,9,7,275,2204,2992,5
+73,96101558,Burton,Gonzales,Megan,71,"57300 Lawrence Valleys Apt. 713
+Lake Barbara, PA 00617",+51 988979095,christinamcdonald@example.org,33897,Femenino,Casado,Universitario,Osteopath,2000-12-03,Tajikistan,Arizona,Lovemouth,Hospital Central,Público,2022-08-22,Cardiopatía,1,9,78.4,1.6,26.8,139/74,87,15,37.5,B,+,Medicamentos,0,No,6,2024-07-16,6,9,Ocasional,Sí,No,5,8,894,8716,2429,2
+74,34603241,Brown,Johnson,Devin,58,"01291 Dean Track Apt. 266
+North Christopher, ID 48572",+51 939557077,vazquezstephanie@example.org,12614,Masculino,Viudo,Técnico,"Administrator, education",1982-10-27,Saint Pierre and Miquelon,Maine,Lake Karenview,Centro Médico Familiar,Privado,2021-04-30,Ninguno,4,1,55.4,1.63,20.3,126/83,85,17,37.1,AB,+,Ninguna,2,No,5,2024-03-11,2,4,Ocasional,Sí,No,7,5,314,8936,3834,5
+75,17213556,Fletcher,Patton,Susan,57,"USCGC Benitez
+FPO AP 26661",+51 910965138,zcochran@example.org,33449,Masculino,Viudo,Universitario,Regulatory affairs officer,1979-03-09,Andorra,Massachusetts,New Jay,Hospital Central,Público,2021-06-26,Hipertensión,2,2,99.1,1.84,37.9,139/84,65,14,37.6,A,-,Medicamentos,0,No,5,2024-05-08,5,8,Ocasional,No,Sí,10,3,891,1890,1462,3
+76,64086409,Nichols,Figueroa,John,74,"09074 Brooks Ramp
+East Kevintown, MS 98403",+51 919528530,laracatherine@example.net,23767,Femenino,Divorciado,Técnico,Diagnostic radiographer,1984-01-22,Samoa,Minnesota,Walshfurt,Centro Médico Familiar,Privado,2020-08-02,Ninguno,5,7,64.2,1.8,38.0,121/77,100,13,36.3,AB,+,Alimentos,1,No,6,2024-01-10,4,0,Ninguno,No,Sí,10,9,1813,8141,1417,3
+77,32768027,Mcguire,Harris,Michelle,73,"4396 Mooney Forge Suite 075
+Port Daniel, GA 42393",+51 994705205,jonathan88@example.com,26353,Masculino,Soltero,Secundaria,"Engineer, manufacturing",2000-04-03,Guernsey,Kentucky,Lake Cameronton,Centro Médico Familiar,Privado,2023-03-13,Diabetes,3,3,99.5,1.94,39.5,122/63,94,15,37.4,A,-,Alimentos,2,No,4,2024-06-08,9,1,Ocasional,No,No,8,7,1676,3374,4485,3
+78,50821620,Brown,Garza,Joshua,41,"633 Holt Turnpike Apt. 617
+Port Devon, CO 52731",+51 917901903,piercedaniel@example.net,16736,Masculino,Casado,Universitario,Visual merchandiser,1999-07-19,Greece,Oregon,Port Traci,Centro Médico Familiar,Público,2020-08-18,Hipertensión,1,5,77.2,1.59,30.8,126/63,94,17,38.6,O,-,Medicamentos,3,No,7,2024-03-22,3,4,Ocasional,No,Sí,4,1,287,4541,2436,3
+79,97613536,Burke,George,Makayla,54,"81909 Jay Isle
+Port Michael, NV 04099",+51 940728046,thompsonjoseph@example.org,33178,Femenino,Viudo,Universitario,Product manager,1962-10-20,Anguilla,North Dakota,Jarvisstad,Centro Médico Familiar,Mixto,2020-12-16,Ninguno,0,6,74.7,1.88,22.1,107/84,99,18,38.0,A,-,Alimentos,3,No,2,2024-07-01,14,1,Frecuente,Sí,No,4,5,1030,8454,1593,3
+80,49863649,Gross,Scott,Edward,30,"99774 Jacob Port
+North Chase, WV 72918",+51 919046318,greilly@example.net,46692,Masculino,Casado,Primaria,IT sales professional,1957-05-23,Tunisia,Tennessee,South Kevin,Hospital Central,Público,2022-05-17,Cardiopatía,1,7,96.9,1.86,26.7,124/86,69,20,38.1,B,+,Ninguna,2,Sí,9,2024-08-03,14,3,Frecuente,No,No,6,8,442,3917,1536,1
+81,50570745,Lewis,Rose,Bradley,63,"648 Hunter Plaza Suite 122
+North Nathaniel, NV 73267",+51 914216175,lauradavis@example.net,36632,Femenino,Divorciado,Secundaria,Heritage manager,1967-01-03,Spain,Idaho,West Charles,Clínica Salud,Mixto,2020-02-24,Diabetes,0,6,92.6,1.78,21.5,113/77,77,12,36.5,B,+,Ninguna,2,No,2,2024-06-14,8,8,Ninguno,No,Sí,5,7,633,7346,1357,5
+82,83721944,Fowler,Cunningham,Anna,22,"09179 Johnson Islands
+New Alexandrashire, DE 65415",+51 954349361,ccunningham@example.com,20128,Masculino,Soltero,Universitario,Emergency planning/management officer,1956-05-19,Chile,Georgia,Tuckerville,Clínica Salud,Privado,2021-05-18,Ninguno,3,1,73.4,1.74,25.0,138/61,65,16,36.2,B,-,Ninguna,1,No,9,2024-05-08,15,1,Ocasional,Sí,No,10,6,1852,7119,1420,5
+83,88418158,Romero,Shelton,Aaron,20,"1670 Potter Ridges
+East Natalie, FM 69596",+51 919510312,erica96@example.com,25514,Masculino,Casado,Técnico,"Scientist, audiological",1975-05-30,Morocco,Arizona,Staffordberg,Hospital Central,Público,2023-12-17,Diabetes,1,7,59.6,1.93,29.1,138/83,79,16,38.5,B,+,Alimentos,2,Sí,10,2024-01-04,6,1,Ninguno,No,Sí,5,9,1539,3234,2048,3
+84,68680911,Jones,Ward,Melissa,60,"9058 Moreno Stravenue Apt. 483
+Lake Brittanyburgh, OH 77204",+51 979008866,samantha07@example.com,20649,Femenino,Casado,Técnico,"Production designer, theatre/television/film",1947-05-04,Christmas Island,Tennessee,South Haley,Clínica Salud,Público,2024-10-18,Ninguno,5,1,55.6,1.67,19.9,118/77,65,14,36.9,B,-,Polen,2,No,3,2024-02-24,10,3,Ocasional,No,Sí,7,1,1566,8499,1057,2
+85,82276213,Powers,Newton,Emily,32,"82453 Lewis Squares
+New Julie, DC 24168",+51 941944441,pcallahan@example.com,21603,Femenino,Viudo,Técnico,Sales executive,1983-03-31,France,Ohio,Nelsonport,Clínica Salud,Mixto,2020-07-12,Cardiopatía,3,10,58.1,1.98,27.8,103/73,92,12,37.0,AB,-,Ninguna,3,No,1,2024-10-26,0,8,Frecuente,No,No,6,2,1271,4181,437,1
+86,58046200,Norton,Bryant,Louis,67,"186 Juan Mills Suite 637
+Ericmouth, NM 32903",+51 947376585,mcollins@example.com,37020,Femenino,Casado,Primaria,"Geologist, wellsite",1946-05-26,Serbia,North Carolina,Melissaborough,Clínica Salud,Público,2020-09-26,Hipertensión,0,9,72.9,1.51,27.6,96/83,73,18,38.9,O,+,Ninguna,1,No,4,2024-01-13,4,6,Ocasional,Sí,No,2,9,1138,6875,2693,2
+87,10613241,Wilson,Campbell,Scott,36,"148 Kristina Point Apt. 894
+New Ray, CO 53238",+51 999788677,todd03@example.com,11624,Masculino,Soltero,Universitario,Interior and spatial designer,1946-01-25,Fiji,Colorado,South Timstad,Clínica Salud,Privado,2020-11-10,Ninguno,5,4,62.9,1.97,28.9,131/84,69,19,36.2,A,+,Polen,0,No,3,2024-05-08,1,3,Frecuente,Sí,Sí,10,6,1588,5418,4806,5
+88,97786708,Morrison,Warren,Todd,23,"0823 Forbes Ford
+South Kimberly, NC 95634",+51 975151231,blackmichelle@example.com,21754,Femenino,Soltero,Técnico,Agricultural engineer,1963-07-26,Palestinian Territory,Mississippi,Delacruzstad,Clínica Salud,Público,2023-09-03,Diabetes,2,6,59.3,1.98,20.2,105/69,94,20,36.5,A,+,Medicamentos,2,No,8,2024-02-25,0,3,Ninguno,No,No,1,7,1982,4313,1136,3
+89,96595425,Parker,Miller,Alexander,72,"932 Wise Canyon Suite 221
+Gabrielleside, GU 56696",+51 938754377,larry41@example.net,31770,Femenino,Casado,Primaria,"Accountant, chartered management",2000-12-15,Senegal,Missouri,North Michele,Centro Médico Familiar,Privado,2023-09-16,Cardiopatía,5,9,86.8,1.56,23.9,92/74,80,20,37.1,O,+,Polen,1,No,6,2024-06-11,5,8,Ocasional,No,No,10,10,1990,6503,3711,3
+90,77419450,Hunt,Perkins,Justin,32,"84798 Allen Corners
+Gracestad, MS 07207",+51 982374753,michele50@example.com,36982,Femenino,Viudo,Primaria,Graphic designer,1946-08-19,Micronesia,Nebraska,South Melinda,Hospital Central,Privado,2022-01-12,Hipertensión,2,5,89.5,2.0,23.8,106/71,85,15,38.2,B,+,Medicamentos,1,Sí,6,2024-04-17,3,10,Ninguno,Sí,Sí,9,5,1298,3084,2233,4
+91,86702464,Rubio,Zhang,James,73,"4333 Tucker Trail Apt. 527
+South Lisatown, AK 82600",+51 927758595,kristinapalmer@example.org,26263,Femenino,Viudo,Universitario,Herpetologist,1944-09-09,Nauru,Maine,North Rogermouth,Clínica Salud,Mixto,2022-01-30,Diabetes,5,2,78.4,1.74,31.9,95/74,97,13,37.6,B,-,Medicamentos,3,Sí,3,2024-02-24,9,3,Ninguno,Sí,No,7,6,505,1525,3128,4
+92,43625582,Hansen,Hobbs,Andrew,24,"17386 Stewart Villages
+Reedfort, UT 70007",+51 986644106,cperry@example.com,27485,Femenino,Divorciado,Técnico,Architectural technologist,1975-11-08,Croatia,North Carolina,North Valerieport,Clínica Salud,Mixto,2022-01-21,Cardiopatía,0,7,87.9,1.62,31.3,97/84,100,19,38.7,A,+,Polen,2,Sí,2,2024-03-04,8,9,Ninguno,No,Sí,3,5,1717,1977,1611,3
+93,16537578,Baxter,Mann,Beth,42,"691 Amber Highway Apt. 477
+Kellyborough, SC 09622",+51 987337818,cynthiaaguilar@example.org,20433,Femenino,Soltero,Secundaria,Automotive engineer,2003-02-19,Lithuania,Tennessee,South Brian,Clínica Salud,Privado,2024-08-25,Diabetes,4,9,58.8,1.8,22.7,105/66,64,13,36.3,B,+,Ninguna,2,No,2,2024-03-28,4,10,Frecuente,Sí,No,5,5,1386,5597,1780,2
+94,95560369,Rollins,Johnson,Sheila,35,"708 Matthew Station
+Racheltown, MH 51802",+51 973440831,vgilbert@example.org,17084,Femenino,Divorciado,Técnico,Public house manager,1945-06-19,Niue,West Virginia,Patrickmouth,Centro Médico Familiar,Mixto,2022-07-29,Cardiopatía,4,8,92.8,1.6,20.8,137/78,79,14,37.8,AB,+,Medicamentos,1,Sí,7,2024-10-26,14,2,Ocasional,No,No,1,2,677,3236,4707,1
+95,20819152,Olson,Tanner,Frances,47,"659 Rebecca Pine
+Meyerfort, IA 26607",+51 942614537,davidbrandt@example.net,35070,Masculino,Viudo,Secundaria,Electrical engineer,1991-11-07,Saint Martin,Nevada,Theresaland,Clínica Salud,Mixto,2020-06-09,Hipertensión,2,9,94.9,1.96,25.1,134/71,87,13,37.8,AB,+,Polen,2,Sí,0,2024-08-14,0,8,Ninguno,Sí,No,6,5,347,2820,384,2
+96,40682116,Jones,Wong,Meagan,58,"612 Thomas Motorway Suite 987
+Johnborough, RI 92518",+51 973481353,andrew91@example.com,12537,Femenino,Divorciado,Secundaria,Forensic psychologist,2000-06-06,Kyrgyz Republic,Nebraska,Shannonbury,Clínica Salud,Privado,2024-01-11,Hipertensión,2,5,91.3,1.78,38.9,135/79,75,12,37.4,AB,-,Ninguna,3,Sí,2,2024-05-06,7,8,Frecuente,Sí,Sí,9,10,275,8627,2696,2
+97,24162896,Wilkins,Garcia,Angela,71,"148 Stephanie Road
+Meltonstad, AS 12985",+51 964634663,burnsamber@example.com,40847,Masculino,Viudo,Técnico,Newspaper journalist,1954-08-14,Libyan Arab Jamahiriya,New York,East Tonytown,Hospital Central,Público,2024-01-12,Diabetes,1,10,75.8,1.89,25.6,130/73,63,12,36.1,O,+,Medicamentos,3,No,6,2024-06-24,2,6,Ninguno,No,No,1,7,1706,8513,2916,5
+98,52636591,Contreras,Aguirre,Alexander,41,"185 Gabriel Flats
+West Connor, NM 11378",+51 935556386,richard51@example.net,24577,Masculino,Divorciado,Secundaria,"Nurse, learning disability",1976-12-23,Guinea,Wisconsin,East Tracey,Centro Médico Familiar,Público,2022-06-17,Cardiopatía,5,10,54.3,1.69,31.8,100/79,75,15,38.8,O,-,Alimentos,3,No,7,2024-07-11,4,1,Ninguno,No,Sí,1,8,489,7852,1311,2
+99,30639627,Jones,Rice,Christina,28,"99328 Ramos Pines Apt. 854
+West Lauren, OK 32284",+51 922660194,vincent43@example.com,23079,Femenino,Divorciado,Primaria,Press sub,1948-03-24,Morocco,Georgia,Jeffreymouth,Clínica Salud,Mixto,2020-11-24,Ninguno,5,2,83.5,1.77,35.8,98/85,65,14,36.5,AB,-,Ninguna,2,Sí,2,2024-01-26,0,10,Frecuente,No,Sí,9,4,1201,3804,3154,2
+100,75231938,Todd,Brown,Ashley,41,"38915 Christine Islands Suite 072
+North Greg, KY 16165",+51 923009833,qrobinson@example.org,40166,Masculino,Soltero,Primaria,"Engineer, production",2005-07-17,Netherlands Antilles,Tennessee,Lukechester,Hospital Central,Mixto,2020-04-03,Hipertensión,5,3,59.2,1.68,25.6,103/86,87,15,38.7,O,-,Polen,2,Sí,10,2024-01-01,15,9,Ninguno,No,No,6,10,1539,6629,3773,5
+101,33631277,Smith,Lane,Robert,40,"USS Gentry
+FPO AP 47722",+51 998447167,dburke@example.org,32915,Masculino,Soltero,Técnico,"Psychotherapist, child",1961-10-11,Somalia,Utah,Saundersland,Hospital Central,Privado,2023-08-26,Ninguno,5,2,57.0,1.63,25.7,103/85,67,18,36.5,AB,-,Alimentos,3,No,8,2024-08-30,6,5,Ninguno,No,Sí,2,4,239,4602,4522,5
+102,34136680,Cohen,Walker,Randy,31,"614 Brandi Shore
+Jonathanmouth, OR 39041",+51 967854710,qsmith@example.com,30000,Masculino,Divorciado,Universitario,Water quality scientist,2003-06-26,Malta,Louisiana,Laurentown,Hospital Central,Privado,2023-12-12,Ninguno,1,7,66.2,1.76,36.0,93/78,89,17,36.3,B,+,Polen,0,Sí,8,2024-11-23,10,10,Frecuente,No,Sí,5,9,1165,5835,1431,5
+103,88044248,Church,Hernandez,Robert,60,"9284 Cameron Plains
+Kellyhaven, OH 74723",+51 957553014,dgarcia@example.com,24915,Masculino,Viudo,Primaria,Garment/textile technologist,1944-11-11,Comoros,Indiana,East Logan,Hospital Central,Privado,2021-03-22,Diabetes,2,6,62.4,1.75,37.0,112/77,99,13,36.6,O,+,Medicamentos,1,Sí,5,2024-02-23,13,7,Ninguno,Sí,Sí,1,6,1466,3568,4471,5
+104,50314672,Wilson,Jordan,Jim,35,"76770 Patricia Views
+Huntburgh, MN 42760",+51 966851760,kwiley@example.net,24609,Masculino,Viudo,Técnico,Patent attorney,1991-03-14,Iran,California,New Angelica,Clínica Salud,Privado,2021-07-08,Diabetes,4,6,63.0,1.55,39.4,107/79,98,16,36.6,AB,+,Ninguna,0,Sí,7,2024-02-18,9,10,Ocasional,No,No,4,3,293,3784,2570,5
+105,58584149,Carpenter,Lee,Jacob,62,"PSC 8889, Box 0404
+APO AA 51200",+51 965177213,oprince@example.com,11550,Masculino,Soltero,Secundaria,"Scientist, physiological",1977-12-10,Cote d'Ivoire,Wisconsin,New Veronicafurt,Hospital Central,Público,2021-03-09,Diabetes,1,9,61.8,1.99,21.4,124/65,63,13,38.1,O,+,Alimentos,2,No,4,2024-06-13,15,6,Ninguno,No,Sí,7,6,697,4763,1095,1
+106,70243839,Vazquez,Sampson,Alexander,77,"61255 Stewart Radial
+Port Matthew, MO 93368",+51 972682989,kristen53@example.com,22656,Masculino,Soltero,Primaria,Immigration officer,1990-12-10,Senegal,Maine,Lake Lauren,Centro Médico Familiar,Privado,2023-10-26,Cardiopatía,0,6,87.7,1.73,25.4,110/82,79,12,38.2,A,-,Alimentos,1,No,4,2024-12-05,11,1,Ocasional,Sí,No,10,9,1636,2416,304,4
+107,80819333,Torres,Alvarez,Cameron,61,"69804 David Inlet
+Lake Brittany, MI 00902",+51 917270733,hperkins@example.com,36113,Masculino,Casado,Técnico,Agricultural consultant,1988-05-05,Mauritania,Connecticut,East Williamchester,Centro Médico Familiar,Privado,2021-02-03,Hipertensión,1,3,97.7,1.92,38.9,108/69,71,13,38.2,A,-,Alimentos,1,Sí,8,2024-01-08,14,2,Frecuente,Sí,Sí,7,1,1528,7745,3414,4
+108,86810990,Griffin,Le,William,59,"669 Reynolds Underpass
+North Garyberg, UT 45686",+51 997705310,ilawrence@example.org,31512,Masculino,Soltero,Técnico,Educational psychologist,1954-05-28,Palau,Michigan,New Meredith,Clínica Salud,Mixto,2021-12-14,Hipertensión,1,4,65.1,1.96,22.8,126/68,67,15,36.8,AB,-,Medicamentos,2,Sí,9,2024-02-02,1,2,Ninguno,No,Sí,6,1,467,9548,4191,1
+109,66126482,Grant,Soto,Theodore,22,"08102 Norton Mountain
+East Seth, TN 51966",+51 996728778,colleen36@example.net,28258,Masculino,Viudo,Universitario,Industrial/product designer,1995-08-02,Norway,South Carolina,Brianville,Hospital Central,Privado,2020-05-16,Ninguno,1,10,86.1,1.69,25.3,122/88,60,19,36.8,AB,-,Ninguna,0,No,0,2024-01-26,10,8,Ocasional,No,No,7,2,229,9015,1290,1
+110,43316931,Garcia,Walker,Alexandra,56,"12105 Jenkins Shoals Suite 525
+Bonnieshire, VT 74687",+51 923209423,kroberts@example.org,14549,Femenino,Soltero,Secundaria,Tourism officer,1962-09-26,Singapore,Louisiana,Spencerstad,Centro Médico Familiar,Mixto,2021-07-26,Diabetes,3,9,50.6,1.71,39.2,133/86,68,14,36.7,AB,+,Ninguna,0,Sí,6,2024-03-15,2,6,Ocasional,Sí,No,7,1,552,4546,3852,2
+111,50147829,Frey,Burnett,Stephanie,58,"4365 Brown Fields Apt. 585
+West Steven, MD 94818",+51 918135295,shannonmoreno@example.net,28292,Masculino,Casado,Secundaria,Mudlogger,1995-05-13,Norfolk Island,Kentucky,Port Thomas,Hospital Central,Privado,2021-05-30,Cardiopatía,0,7,82.7,1.78,39.3,96/64,60,13,36.1,A,+,Medicamentos,0,No,1,2024-10-16,4,8,Ocasional,Sí,No,7,7,1495,8757,2723,1
+112,42220719,Morgan,Reese,Steven,28,"947 Guerrero Manors Apt. 077
+South Michael, FL 57174",+51 964038913,erikagoodwin@example.com,33012,Masculino,Divorciado,Secundaria,Travel agency manager,2005-09-13,Comoros,Delaware,Kaylafort,Centro Médico Familiar,Privado,2021-02-01,Hipertensión,2,9,84.6,1.61,24.8,138/85,70,17,37.7,O,+,Polen,0,Sí,2,2024-04-20,1,5,Ninguno,Sí,No,7,2,302,8581,1378,4
+113,61135680,Hubbard,Gross,Jeffrey,52,"978 Nicole Run Suite 809
+Briannaborough, VT 01905",+51 955540424,connie56@example.org,43384,Femenino,Divorciado,Técnico,"Chemist, analytical",1957-05-04,Estonia,New Hampshire,North Martinfort,Centro Médico Familiar,Mixto,2024-08-01,Cardiopatía,4,1,53.1,1.57,33.4,116/89,91,13,38.5,A,+,Alimentos,3,Sí,0,2024-08-13,8,10,Ocasional,Sí,Sí,9,9,829,5573,135,3
+114,68993923,Chambers,Reynolds,Sandy,64,"938 Lee Dale
+Port Sherry, KY 35473",+51 924665841,rebecca43@example.com,36193,Femenino,Viudo,Técnico,Commissioning editor,1961-01-06,Saint Vincent and the Grenadines,Montana,Allenhaven,Centro Médico Familiar,Público,2020-08-02,Diabetes,4,1,55.9,1.63,29.1,93/68,82,12,36.5,AB,+,Polen,1,No,3,2024-05-23,12,2,Ninguno,No,Sí,4,2,1880,1237,4574,3
+115,37661380,James,Hodge,Peter,33,"1037 Young Square
+Merrittborough, MA 87095",+51 943374088,madams@example.com,45141,Femenino,Casado,Secundaria,Claims inspector/assessor,1955-02-09,Taiwan,Iowa,Howardburgh,Clínica Salud,Público,2020-10-15,Diabetes,2,1,65.3,1.97,30.9,131/64,93,19,37.1,AB,+,Medicamentos,0,No,4,2024-11-01,2,8,Frecuente,No,Sí,3,8,1825,8014,4256,3
+116,25809388,Jones,Stephens,Robert,28,"2172 Frank Lodge
+Russellshire, IN 19872",+51 935714784,georgesherry@example.org,31702,Masculino,Divorciado,Técnico,Magazine features editor,1966-12-17,Lesotho,Utah,Lake Marcus,Centro Médico Familiar,Mixto,2022-03-17,Hipertensión,3,3,70.3,1.79,23.7,134/87,93,12,37.3,AB,-,Polen,2,No,7,2024-01-02,15,9,Frecuente,No,Sí,8,6,399,5041,2813,2
+117,35986471,Dixon,Perez,Kyle,47,"082 Wilson Mall
+Diazshire, ME 30954",+51 935529407,cynthiaflynn@example.net,11808,Masculino,Divorciado,Universitario,Management consultant,2004-06-09,Guam,Tennessee,Jenniferbury,Hospital Central,Mixto,2022-07-10,Ninguno,4,6,75.1,1.71,26.6,98/67,76,14,36.9,AB,-,Polen,3,Sí,10,2024-01-06,5,7,Ninguno,No,Sí,3,4,1134,5060,2521,4
+118,20082343,Snyder,Roberts,Allen,42,"7575 James Island
+Franklinland, AZ 04229",+51 981979055,kramos@example.org,17559,Masculino,Soltero,Técnico,Visual merchandiser,1979-01-13,Jamaica,Oregon,New Dianeburgh,Clínica Salud,Público,2022-09-24,Ninguno,1,8,94.8,1.58,36.1,99/82,70,18,38.0,AB,-,Medicamentos,1,Sí,1,2024-10-22,6,5,Ninguno,Sí,No,4,5,1451,6362,3982,5
+119,20344517,Miller,Brown,Regina,35,"3736 David Avenue Apt. 484
+Figueroachester, PW 22035",+51 970211891,ramirezkayla@example.com,27118,Femenino,Divorciado,Técnico,Clinical biochemist,1971-08-30,Portugal,Virginia,Markland,Clínica Salud,Mixto,2024-07-23,Diabetes,4,9,85.2,1.66,26.9,110/86,83,18,37.8,AB,-,Alimentos,2,No,7,2024-10-20,8,5,Frecuente,Sí,No,9,5,549,8114,2474,5
+120,24285500,Thomas,Benson,Alec,77,"8381 Maddox Drive
+North Dorothyborough, SD 95777",+51 928814949,rebeccanelson@example.net,21702,Masculino,Viudo,Primaria,Data processing manager,1966-08-27,United States Minor Outlying Islands,Minnesota,Ariasborough,Centro Médico Familiar,Mixto,2023-01-18,Diabetes,0,8,65.5,1.69,20.9,105/84,68,19,36.6,B,+,Polen,3,No,5,2024-05-22,12,8,Frecuente,No,Sí,7,4,1910,4643,4799,3
+121,53828507,Reid,Owens,Jeffrey,58,"35090 Angela Shoals Apt. 751
+Aguilarberg, WI 77492",+51 966623995,ubradley@example.com,48049,Masculino,Divorciado,Universitario,Chief Strategy Officer,1997-02-02,United States of America,Wyoming,New Charles,Clínica Salud,Mixto,2021-05-13,Ninguno,0,3,55.9,1.92,30.6,133/72,77,12,36.1,B,-,Ninguna,1,Sí,4,2024-02-26,0,5,Ocasional,Sí,Sí,6,1,1410,3440,1304,2
+122,23612354,Ramirez,Frazier,Adam,62,"60186 Kelsey Bypass Apt. 111
+South Kimberlyberg, NY 56338",+51 934627347,douglas27@example.org,27397,Femenino,Viudo,Primaria,"Accountant, chartered public finance",1980-04-30,Palau,Delaware,Hendricksport,Centro Médico Familiar,Mixto,2022-08-19,Diabetes,2,10,95.8,1.75,31.2,121/64,67,18,36.5,B,-,Polen,2,Sí,5,2024-10-04,3,5,Frecuente,No,No,7,1,330,1083,4730,3
+123,49786835,Owens,Fox,Michael,53,"02541 Brittany Place Apt. 389
+Stacyshire, NH 75347",+51 947385696,oscarwaters@example.org,12507,Femenino,Viudo,Secundaria,"Investment banker, corporate",1986-01-15,Belize,Alabama,Jacobsonshire,Hospital Central,Mixto,2020-11-14,Hipertensión,3,9,64.8,1.83,30.2,126/80,61,18,36.9,A,+,Polen,1,No,5,2024-11-01,7,6,Ocasional,Sí,Sí,3,10,1874,7844,3721,1
+124,84513460,Myers,Dominguez,Zachary,32,"698 Peter Ferry
+Nicolehaven, GA 80286",+51 972092888,catherine10@example.org,17104,Femenino,Soltero,Secundaria,Museum/gallery curator,1969-11-20,Saint Martin,Wyoming,Laraberg,Clínica Salud,Público,2020-03-30,Hipertensión,5,3,80.7,1.84,33.2,107/80,81,14,36.2,O,+,Ninguna,3,Sí,8,2024-09-04,12,10,Frecuente,No,Sí,5,2,1874,1724,2874,1
+125,67229422,Blake,Collins,John,61,"9053 Jasmine Isle
+East Jamiehaven, SD 50421",+51 943528453,amylopez@example.com,49096,Masculino,Casado,Universitario,"Investment banker, operational",1947-08-18,Spain,Connecticut,Joshuabury,Centro Médico Familiar,Mixto,2022-04-17,Cardiopatía,5,6,61.0,1.63,30.3,116/72,87,17,38.5,AB,-,Alimentos,0,Sí,8,2024-01-07,14,6,Frecuente,No,No,3,1,417,1656,1020,2
+126,18489901,Jackson,Carter,Carl,38,"81496 Kayla Walks Suite 181
+Juanton, SC 84774",+51 920117988,brianbryant@example.com,38479,Masculino,Viudo,Técnico,Theme park manager,1975-04-24,Bulgaria,Illinois,East Patricia,Clínica Salud,Público,2020-12-26,Ninguno,3,10,56.7,1.91,39.0,118/62,77,15,36.9,B,-,Ninguna,3,Sí,4,2024-08-20,7,5,Ninguno,Sí,No,3,10,433,8711,4023,2
+127,60720714,Chambers,Martin,Amy,71,"42516 Mills Drives Suite 537
+Gonzalezland, NY 36395",+51 969476001,singheric@example.org,32654,Masculino,Divorciado,Primaria,Education administrator,1978-07-29,Brazil,Alaska,North Terrichester,Clínica Salud,Privado,2024-10-18,Diabetes,4,6,57.7,1.98,28.4,130/85,93,14,37.2,A,-,Alimentos,2,Sí,5,2024-05-20,1,9,Frecuente,Sí,Sí,1,4,1218,9261,428,2
+128,50418297,Flynn,Jenkins,Kyle,67,"6833 Collins Fords Apt. 105
+Lake Daniel, WV 56945",+51 983863413,millerrebecca@example.net,30557,Masculino,Divorciado,Universitario,Dramatherapist,1999-09-11,United States Virgin Islands,Rhode Island,North Angelahaven,Hospital Central,Público,2024-09-21,Cardiopatía,3,3,87.4,1.82,33.7,139/62,64,16,37.5,O,-,Medicamentos,0,Sí,0,2024-11-18,6,3,Frecuente,Sí,Sí,2,10,1418,1550,1242,2
+129,20517078,Mclaughlin,Woods,Sheila,67,"USNV Griffin
+FPO AE 98105",+51 923141087,yvettesmith@example.net,38599,Femenino,Viudo,Primaria,Museum education officer,1946-08-25,Burkina Faso,South Dakota,North Chelseaborough,Centro Médico Familiar,Privado,2023-10-09,Hipertensión,3,7,80.3,1.75,27.9,115/76,76,16,38.0,AB,-,Medicamentos,1,No,6,2024-04-03,14,9,Frecuente,Sí,No,1,2,1836,7974,4613,3
+130,26515936,Gonzalez,Rios,Tara,21,"51142 Austin Land
+Westborough, AS 80773",+51 916789850,jamesstokes@example.net,49728,Masculino,Divorciado,Técnico,Fine artist,2006-10-02,Australia,Oregon,South David,Centro Médico Familiar,Público,2022-07-16,Ninguno,4,10,70.8,1.58,24.8,137/68,96,19,36.3,AB,-,Polen,1,Sí,1,2024-07-21,3,8,Ninguno,No,Sí,3,2,1460,9701,1057,2
+131,37583650,James,Pacheco,Mark,32,"USCGC Morris
+FPO AE 87569",+51 997529405,qbaker@example.com,43516,Masculino,Soltero,Primaria,Dancer,1958-11-25,Mayotte,Montana,North Amyberg,Hospital Central,Público,2022-06-21,Hipertensión,0,5,77.5,1.9,33.4,134/89,100,14,37.6,O,-,Polen,1,Sí,5,2024-08-14,6,3,Ocasional,No,No,8,2,651,7460,2623,2
+132,25824665,Quinn,Anderson,Natalie,70,"2067 Craig Mountain
+Lake Colefurt, MA 76040",+51 982556484,toddgregory@example.net,17578,Femenino,Divorciado,Universitario,"Scientist, research (maths)",1971-03-08,Saint Pierre and Miquelon,Alabama,South Angela,Hospital Central,Mixto,2020-02-10,Diabetes,1,10,73.5,1.58,36.1,113/74,64,12,36.6,O,+,Medicamentos,3,Sí,10,2024-03-22,15,6,Frecuente,Sí,Sí,7,10,329,8852,303,2
+133,27010063,Miller,Yates,Miranda,20,"139 Spencer Hill
+South Samantha, IN 13515",+51 911980765,xgarcia@example.com,35244,Femenino,Soltero,Técnico,"Buyer, retail",1950-01-19,Mozambique,Arizona,East Johnmouth,Centro Médico Familiar,Público,2024-02-14,Cardiopatía,2,6,76.9,1.86,35.6,121/70,91,15,38.7,O,+,Ninguna,1,Sí,9,2024-03-24,12,8,Frecuente,No,No,3,3,1847,2605,3390,1
+134,68334154,Garcia,Willis,Karen,69,"311 Nicole Canyon Suite 146
+South Michael, MS 27049",+51 922517517,ruth54@example.com,47787,Femenino,Viudo,Técnico,Geophysical data processor,1963-12-26,Norway,Kansas,Buckbury,Clínica Salud,Público,2023-04-16,Diabetes,5,9,83.2,1.74,27.3,127/60,89,16,37.1,A,+,Medicamentos,1,No,3,2024-07-05,9,4,Frecuente,Sí,Sí,2,7,615,8412,1905,4
+135,76515288,Padilla,Chen,Andrew,38,"22167 Kelley Valley
+West Justin, AS 64019",+51 941726318,brittany83@example.net,22457,Masculino,Viudo,Universitario,Legal executive,2000-07-03,Malta,Massachusetts,Petersonfort,Hospital Central,Mixto,2024-02-17,Diabetes,0,9,60.9,1.96,29.2,139/87,92,19,37.3,B,+,Alimentos,1,No,9,2024-09-26,10,5,Ninguno,No,Sí,3,10,1072,9114,3753,1
+136,69886134,Payne,Casey,Pamela,43,"2472 Lowe Ferry Suite 833
+West Lindsey, WA 65308",+51 932321899,parkerdustin@example.org,26693,Femenino,Viudo,Técnico,Quantity surveyor,1980-03-27,Cameroon,Hawaii,East Herbertside,Hospital Central,Privado,2023-10-05,Ninguno,3,9,62.4,1.77,32.1,136/62,83,18,36.8,AB,+,Polen,3,No,9,2024-09-27,5,7,Ocasional,No,No,7,3,890,4940,3027,1
+137,63199110,Watson,Cook,Phillip,35,"48288 John Valleys
+Porterton, WV 94095",+51 964547971,amber48@example.org,12908,Masculino,Soltero,Primaria,Advertising copywriter,1947-12-08,Isle of Man,New Mexico,Alisonstad,Clínica Salud,Público,2020-04-20,Ninguno,3,8,87.7,1.82,23.7,136/74,63,20,37.4,B,+,Ninguna,2,No,10,2024-01-26,1,7,Ninguno,Sí,No,8,2,1861,2361,857,1
+138,62480612,Evans,Eaton,Hannah,22,"USCGC Gay
+FPO AE 40845",+51 975181648,akoch@example.org,38577,Femenino,Divorciado,Secundaria,Maintenance engineer,1975-12-19,Saint Lucia,Colorado,North Michael,Centro Médico Familiar,Mixto,2022-08-12,Diabetes,5,10,93.7,1.53,32.7,130/81,91,19,36.7,O,-,Polen,0,No,10,2024-02-28,3,6,Ninguno,Sí,No,10,3,1911,1203,2773,4
+139,39892179,Taylor,Krause,Shannon,31,"36175 Amber Land Suite 174
+Port Mollyfurt, RI 46849",+51 974606833,rdiaz@example.net,10110,Femenino,Soltero,Universitario,"Teacher, adult education",1980-09-22,Lebanon,Washington,Laurenbury,Clínica Salud,Privado,2023-01-31,Ninguno,4,5,54.1,1.52,33.9,134/71,96,12,36.8,AB,-,Medicamentos,1,Sí,8,2024-04-20,8,0,Ocasional,No,No,7,5,1711,7662,550,4
+140,70300648,Ortiz,Reese,Steven,76,"557 Miller Locks
+Karenhaven, AR 58672",+51 938688676,williamdawson@example.com,44073,Masculino,Divorciado,Primaria,Purchasing manager,2006-02-15,Timor-Leste,New Mexico,West Ashleyshire,Hospital Central,Público,2023-03-05,Cardiopatía,2,8,72.3,1.92,35.5,94/85,70,13,36.2,AB,-,Ninguna,3,Sí,2,2024-10-31,15,0,Ninguno,Sí,Sí,10,5,1589,4571,1698,1
+141,37889153,Jones,Jones,Chelsea,78,"7236 Cobb Rapids
+Douglasstad, PR 21645",+51 963826716,mitchellflores@example.com,45287,Femenino,Divorciado,Técnico,"Engineer, manufacturing systems",1986-10-25,France,Oregon,New Bradleyfurt,Clínica Salud,Público,2022-05-30,Cardiopatía,1,1,85.2,1.97,20.1,124/72,83,16,38.3,B,+,Medicamentos,1,Sí,4,2024-08-02,9,4,Frecuente,Sí,No,3,8,1023,3174,4879,2
+142,19072009,Blair,Butler,Lisa,54,"855 Keith Junction
+Lake Garrett, NJ 24312",+51 917869910,rileylori@example.net,22912,Femenino,Soltero,Secundaria,Lobbyist,1988-05-21,Oman,Oregon,Torresville,Centro Médico Familiar,Público,2023-12-14,Diabetes,4,6,53.9,1.83,39.8,103/90,70,18,38.0,B,-,Alimentos,0,Sí,5,2024-01-23,6,9,Frecuente,Sí,Sí,8,2,864,6872,4412,1
+143,62011904,Grimes,Smith,Robert,74,"192 Christian Lights
+Cruzfurt, AS 01721",+51 932097220,micheal68@example.com,33869,Femenino,Casado,Primaria,"Development worker, community",1982-06-03,Falkland Islands (Malvinas),Utah,East Jacobside,Hospital Central,Privado,2022-08-30,Cardiopatía,5,6,78.2,1.88,28.8,117/86,76,14,36.3,AB,-,Medicamentos,2,No,5,2024-05-29,11,0,Ocasional,Sí,Sí,9,8,447,5846,1919,1
+144,73833558,Morgan,Stephenson,Ryan,63,"0757 Denise Shore Suite 807
+Port Jonathanchester, KS 11696",+51 960864911,joneschristopher@example.net,38265,Masculino,Viudo,Universitario,"Chemist, analytical",1958-01-22,Belize,Massachusetts,Deborahburgh,Clínica Salud,Privado,2024-10-04,Diabetes,4,2,53.1,1.71,27.1,103/75,66,18,37.0,A,+,Ninguna,2,No,10,2024-11-01,1,8,Ninguno,Sí,No,7,5,1601,4916,2376,5
+145,15772517,Walker,Brown,Stacey,38,"01310 Michael Field Suite 766
+East James, MS 45593",+51 910289289,christine42@example.org,14585,Femenino,Divorciado,Técnico,Armed forces technical officer,1993-11-14,New Caledonia,Tennessee,Maryside,Centro Médico Familiar,Público,2020-06-13,Cardiopatía,1,7,77.4,1.92,29.4,107/70,96,15,37.6,O,+,Medicamentos,1,No,8,2024-07-15,6,2,Ocasional,No,Sí,9,7,1379,2486,1703,5
+146,23395217,Guzman,Pacheco,Diane,31,"11084 Charlene Manors
+New Jefferyland, MH 12220",+51 962401521,erinroberts@example.net,31639,Masculino,Divorciado,Universitario,"Administrator, Civil Service",2001-12-16,Saint Pierre and Miquelon,Arizona,Lake Mary,Centro Médico Familiar,Público,2021-08-08,Hipertensión,1,10,75.3,1.62,38.3,108/70,67,20,38.9,B,-,Polen,0,No,7,2024-09-19,3,4,Frecuente,No,Sí,8,6,1317,1260,284,1
+147,65281707,Daniels,Tate,Michael,59,"54294 Yvette Trafficway Suite 769
+Jefferytown, MI 67217",+51 945594951,ljennings@example.com,30572,Femenino,Soltero,Primaria,Medical physicist,1954-10-14,Eritrea,Maine,Port Rebeccachester,Centro Médico Familiar,Privado,2023-12-06,Diabetes,3,5,78.6,1.85,33.4,125/78,74,15,37.8,AB,-,Polen,1,Sí,7,2024-03-17,7,0,Ninguno,No,Sí,7,5,481,8860,784,4
+148,96405672,Jackson,Jimenez,Joshua,49,"502 Tristan Park
+Sheilamouth, NM 33780",+51 971070189,colincontreras@example.org,18167,Femenino,Casado,Secundaria,Outdoor activities/education manager,1954-03-28,Gambia,Utah,North Dustin,Centro Médico Familiar,Mixto,2022-04-29,Cardiopatía,4,1,57.5,1.5,30.2,98/78,92,20,37.7,B,+,Ninguna,2,Sí,1,2024-03-18,13,4,Ninguno,No,Sí,6,3,858,5994,4510,1
+149,59354977,Jones,Peterson,Sandra,43,"297 Manuel Tunnel
+Dorseyhaven, NM 35787",+51 948285503,xavier02@example.org,29681,Femenino,Viudo,Primaria,Solicitor,2001-05-06,Saint Martin,Utah,South Mark,Centro Médico Familiar,Privado,2023-02-25,Hipertensión,0,10,66.4,1.75,35.5,121/85,60,12,38.5,AB,-,Polen,3,No,6,2024-09-27,10,3,Ocasional,No,No,4,2,1913,3650,3749,3
+150,57325933,Gaines,Smith,Jaime,74,"USS Gentry
+FPO AA 51374",+51 966775103,jonessusan@example.com,43234,Femenino,Casado,Primaria,General practice doctor,1973-01-29,Niger,Oregon,South Phillipside,Centro Médico Familiar,Mixto,2024-09-14,Diabetes,0,8,76.0,1.69,26.2,111/88,62,18,38.5,A,-,Alimentos,3,No,9,2024-01-14,0,3,Frecuente,Sí,No,3,5,1824,8524,815,1
+151,95716162,Young,Hill,Joe,76,"4664 Lee Pike
+Perryberg, ME 80419",+51 984593961,kimberlybuchanan@example.net,30269,Femenino,Viudo,Técnico,Armed forces operational officer,1959-07-04,Cameroon,South Dakota,Davidville,Hospital Central,Mixto,2021-04-19,Cardiopatía,4,5,55.8,1.81,37.8,133/84,60,17,37.3,B,+,Alimentos,3,Sí,4,2024-01-02,5,5,Ocasional,Sí,No,7,1,636,1399,4292,1
+152,50255227,Rogers,Garcia,Melinda,59,"736 Ramos Inlet
+Victoriatown, SD 11971",+51 998834863,anthonysmith@example.net,36764,Femenino,Divorciado,Universitario,Communications engineer,1965-07-29,Zambia,Delaware,New Wayne,Centro Médico Familiar,Mixto,2022-01-07,Cardiopatía,1,10,60.3,1.83,30.0,93/61,75,19,37.6,AB,+,Ninguna,0,No,7,2024-04-20,8,0,Frecuente,Sí,Sí,10,7,1765,8452,3331,3
+153,37492108,Howard,Davis,Michelle,47,"4492 Lozano Isle
+Port Steven, AZ 69008",+51 975319931,becky27@example.net,31376,Masculino,Divorciado,Primaria,Dentist,1981-02-22,Latvia,Louisiana,New Charlenebury,Centro Médico Familiar,Público,2023-02-03,Hipertensión,2,10,79.2,1.81,32.2,96/80,62,20,38.6,B,-,Medicamentos,0,Sí,10,2024-06-09,3,4,Frecuente,Sí,No,1,7,293,8598,1692,1
+154,67299026,Walker,Curry,Henry,27,"Unit 1263 Box 3728
+DPO AA 12043",+51 930776478,benjamin32@example.org,36371,Masculino,Soltero,Primaria,Research scientist (physical sciences),1944-06-01,Guatemala,Iowa,Port Steventown,Centro Médico Familiar,Público,2020-10-12,Ninguno,1,4,54.5,1.74,20.3,140/86,90,19,37.4,AB,-,Polen,2,No,2,2024-04-07,12,8,Ocasional,Sí,Sí,10,6,1414,3271,4117,1
+155,39302288,Hall,Nelson,Danielle,34,"USCGC Thomas
+FPO AP 23089",+51 935487660,uwatts@example.net,29376,Femenino,Soltero,Secundaria,Press sub,1970-12-20,Puerto Rico,Nevada,Houseberg,Clínica Salud,Mixto,2023-01-12,Ninguno,1,1,75.5,1.74,35.0,119/60,83,17,38.6,O,+,Polen,0,Sí,2,2024-09-04,7,8,Ninguno,No,Sí,8,1,555,7641,2703,1
+156,38538686,Anderson,Mcintyre,Brian,26,"95372 Baxter Fields
+West Tiffany, AL 26572",+51 949823450,veronica49@example.com,46333,Femenino,Casado,Secundaria,"Teacher, early years/pre",1945-01-04,Costa Rica,South Dakota,New Michael,Hospital Central,Mixto,2023-07-07,Hipertensión,2,10,90.4,1.5,32.6,97/89,84,20,37.4,AB,+,Medicamentos,2,Sí,10,2024-07-19,0,8,Ninguno,Sí,Sí,4,5,887,4030,4290,5
+157,52771631,Sanchez,Zimmerman,Debra,33,"453 Justin Track
+South Emilyfurt, FL 18470",+51 939219319,mingram@example.org,18341,Masculino,Casado,Universitario,Health service manager,2005-01-20,Bahrain,Vermont,Aarontown,Hospital Central,Mixto,2021-03-01,Hipertensión,5,8,72.7,1.78,26.1,100/74,69,17,36.2,AB,-,Medicamentos,2,No,5,2024-06-27,1,9,Ocasional,No,No,9,5,329,7068,559,2
+158,99610462,Moore,Green,Sharon,65,"93717 Nicole Fall Suite 644
+Brennanhaven, ID 66901",+51 917849494,aaroncross@example.org,22572,Femenino,Viudo,Universitario,"Teacher, adult education",1997-04-24,Haiti,Maine,Karenshire,Clínica Salud,Privado,2021-05-26,Diabetes,1,3,75.7,1.51,32.4,119/60,71,18,38.7,AB,+,Medicamentos,1,No,6,2024-02-07,15,9,Frecuente,No,No,5,3,447,8607,3057,5
+159,96124488,Berry,Gonzalez,John,53,"6589 Dustin Corner
+Lake Andrea, UT 98411",+51 987736262,wcunningham@example.org,37554,Femenino,Soltero,Técnico,Biomedical engineer,1953-12-22,Lithuania,Kansas,Benjaminview,Centro Médico Familiar,Público,2020-02-13,Ninguno,2,9,72.8,1.76,19.5,117/66,62,16,38.1,AB,-,Medicamentos,3,Sí,10,2024-08-23,4,2,Ocasional,No,No,7,8,760,1022,3356,2
+160,41693498,Bell,Washington,Ashley,52,"6562 Berry Greens
+Kellymouth, CT 80423",+51 982772208,rwright@example.org,34847,Femenino,Divorciado,Universitario,Dietitian,1999-10-03,Luxembourg,New Jersey,Stanleyhaven,Clínica Salud,Mixto,2022-07-18,Diabetes,4,10,52.9,1.64,39.6,134/89,95,14,37.5,O,+,Polen,3,No,9,2024-08-05,11,1,Ninguno,Sí,Sí,9,2,489,2158,1311,2
+161,52245653,Wilson,Castro,Paige,34,"23188 Taylor Wall Suite 422
+Matthewville, MI 54583",+51 918181586,wbrown@example.org,21405,Masculino,Soltero,Secundaria,Microbiologist,1946-09-23,Azerbaijan,Wisconsin,Colefurt,Clínica Salud,Mixto,2023-10-13,Cardiopatía,2,7,73.1,1.99,33.1,98/88,86,12,38.7,A,-,Alimentos,2,No,9,2024-03-28,2,0,Ocasional,No,Sí,10,8,1751,7305,3603,3
+162,62698615,Cooper,Hansen,Nicholas,65,"54095 Sarah Lodge Apt. 467
+North David, NE 55639",+51 952091325,jody60@example.com,47296,Femenino,Casado,Universitario,"Production assistant, radio",1965-06-07,Benin,Alaska,South Christopherport,Clínica Salud,Privado,2022-06-28,Hipertensión,0,3,90.3,1.51,27.1,131/69,74,17,38.4,O,-,Ninguna,0,No,6,2024-10-09,7,7,Frecuente,Sí,Sí,6,4,1050,6454,3128,1
+163,92516564,Miller,Nelson,Peter,55,"21557 Brown Burg Suite 648
+Brandonhaven, MH 45175",+51 917672593,sandra60@example.com,29723,Femenino,Soltero,Primaria,Newspaper journalist,1979-09-03,Chile,Hawaii,Lake Mariaview,Hospital Central,Público,2020-02-05,Diabetes,2,4,86.2,1.91,34.7,100/87,80,15,38.0,A,-,Ninguna,2,No,1,2024-08-08,5,5,Frecuente,Sí,No,1,10,544,9698,3263,1
+164,90922812,Martin,Kane,Stacey,45,"1573 Richards Spring Apt. 992
+Mcclureberg, AZ 18558",+51 916729990,adrian16@example.org,36612,Masculino,Divorciado,Universitario,Art gallery manager,1967-10-20,Cocos (Keeling) Islands,Nebraska,New Brenthaven,Hospital Central,Mixto,2024-09-05,Hipertensión,1,1,69.8,1.84,39.3,107/62,75,12,37.9,A,+,Medicamentos,3,No,1,2024-01-15,15,2,Ninguno,No,Sí,1,7,1626,1535,3154,2
+165,63520685,Blair,Chavez,Andrew,75,"37835 Dennis Spurs
+North Melissaside, DE 15908",+51 988406989,julie15@example.org,45909,Femenino,Soltero,Universitario,Orthoptist,1969-12-04,Bermuda,Utah,Gibsonmouth,Hospital Central,Público,2024-07-03,Diabetes,5,10,90.8,1.9,27.8,131/71,86,16,36.4,O,+,Alimentos,1,Sí,2,2024-09-06,2,2,Ocasional,No,Sí,10,3,957,5859,199,3
+166,51541238,Campbell,Le,Jose,55,"657 Tara Highway
+Silvaport, KY 86636",+51 973993471,alvarezteresa@example.net,10026,Masculino,Casado,Técnico,"Psychologist, counselling",1952-07-18,Turkmenistan,Pennsylvania,East Barbara,Centro Médico Familiar,Mixto,2020-12-15,Cardiopatía,4,2,87.3,1.95,18.7,106/62,80,12,38.3,B,+,Polen,3,No,5,2024-06-10,10,4,Ocasional,No,No,8,8,1333,7977,2431,5
+167,51526696,Davenport,Macdonald,Dana,43,"94521 Cobb Brook
+Weissborough, NM 49143",+51 977491435,nicholas93@example.net,29914,Femenino,Divorciado,Primaria,Plant breeder/geneticist,1985-11-06,Saint Barthelemy,Wisconsin,New Robert,Centro Médico Familiar,Privado,2024-10-24,Cardiopatía,2,4,78.9,1.55,24.1,113/81,77,19,36.5,A,+,Polen,2,No,3,2024-01-10,1,5,Frecuente,No,Sí,6,2,537,5420,2925,3
+168,43256372,Mullins,Rush,Diana,41,"9345 Brandon Expressway Apt. 155
+Cherylville, RI 38853",+51 981286543,williamsonbrenda@example.com,28803,Femenino,Viudo,Técnico,Homeopath,1944-12-24,Finland,Washington,East Sharonville,Clínica Salud,Privado,2023-03-08,Ninguno,1,1,52.3,1.55,29.5,131/65,64,20,39.0,O,-,Ninguna,2,No,5,2024-03-18,1,9,Frecuente,Sí,Sí,2,3,1098,9887,2978,3
+169,32090858,Frey,Stewart,Jose,32,"83125 Bailey Terrace Suite 225
+Michaelberg, NE 99418",+51 931130263,nicholasmartinez@example.net,23774,Femenino,Viudo,Secundaria,Orthoptist,1997-03-02,Mozambique,Vermont,West Maryport,Hospital Central,Público,2023-09-10,Ninguno,5,8,67.2,1.57,29.7,93/72,96,17,38.9,AB,-,Medicamentos,3,Sí,5,2024-05-05,11,3,Ninguno,Sí,No,10,9,698,4393,2623,2
+170,53058163,Watson,Green,Rodney,26,"Unit 9718 Box 1805
+DPO AP 41726",+51 917634247,dylan66@example.org,38173,Femenino,Divorciado,Universitario,Metallurgist,1954-03-14,Yemen,Vermont,West Michelle,Hospital Central,Privado,2022-01-23,Cardiopatía,2,6,53.2,1.6,31.0,130/69,83,15,38.4,O,+,Alimentos,3,No,10,2024-07-28,4,3,Ninguno,Sí,No,8,7,1391,2326,3750,5
+171,65221084,Henry,Snyder,Jason,50,"6973 Charles Camp
+Port Jorgeland, KY 91907",+51 978159587,joseph22@example.net,48009,Femenino,Divorciado,Universitario,"Surveyor, mining",1965-10-27,Malawi,New York,Newmanshire,Centro Médico Familiar,Público,2023-05-09,Diabetes,4,7,99.7,1.76,30.9,136/82,67,14,36.4,A,+,Ninguna,0,Sí,4,2024-06-22,3,4,Ninguno,No,Sí,2,4,283,6500,4695,5
+172,24898909,Medina,Preston,Jason,49,"273 Bryant Pass Apt. 906
+North Daniel, OR 22756",+51 920752378,tsantiago@example.com,49758,Masculino,Divorciado,Secundaria,Hospital pharmacist,1959-05-28,Tanzania,North Dakota,West Davidland,Centro Médico Familiar,Mixto,2024-04-29,Hipertensión,4,3,96.7,1.91,28.1,138/67,92,13,37.3,B,-,Alimentos,1,No,4,2024-11-19,4,4,Frecuente,Sí,No,3,10,473,1898,817,2
+173,35489197,Burnett,Evans,Rose,23,"78709 Webb Radial
+Maryshire, WV 46903",+51 934941004,marvin27@example.net,31118,Masculino,Casado,Técnico,"Engineer, site",1960-12-25,Latvia,Illinois,West Jonathanborough,Hospital Central,Privado,2021-05-01,Cardiopatía,0,7,53.5,1.63,26.9,117/80,63,15,39.0,B,-,Medicamentos,3,Sí,9,2024-08-21,15,1,Ocasional,Sí,No,9,2,404,9433,1866,5
+174,86985644,Adams,Williams,Jerry,66,"95895 Bethany Vista
+North Paulatown, GA 36067",+51 919196777,chelseavega@example.org,40473,Masculino,Divorciado,Primaria,Bookseller,1988-12-26,Saint Pierre and Miquelon,Oklahoma,South Christopher,Hospital Central,Mixto,2022-01-19,Cardiopatía,4,4,96.7,1.7,35.1,95/82,71,15,37.3,B,+,Medicamentos,1,No,10,2024-02-15,7,9,Frecuente,Sí,No,5,8,1820,6963,3739,5
+175,81060332,Hurst,Wilson,Christopher,21,"3073 Dennis Center Suite 438
+West Amberside, OH 33792",+51 989864260,harry95@example.org,38952,Masculino,Casado,Técnico,"Education officer, community",1962-10-17,Yemen,Iowa,Martinezside,Centro Médico Familiar,Mixto,2024-05-01,Diabetes,5,7,51.6,1.69,31.2,96/60,74,16,39.0,AB,-,Ninguna,1,Sí,6,2024-07-31,10,6,Frecuente,Sí,No,8,5,1935,1844,3504,1
+176,39520687,Sherman,Alexander,Billy,73,"714 David Junctions Suite 812
+South Tracy, OK 01057",+51 919121552,cgiles@example.org,38977,Femenino,Divorciado,Técnico,Records manager,1999-10-16,Romania,Washington,Port Lisa,Centro Médico Familiar,Privado,2021-01-26,Cardiopatía,1,9,70.4,1.7,29.3,103/75,93,20,37.9,O,-,Medicamentos,0,Sí,4,2024-05-21,11,9,Ninguno,Sí,Sí,9,2,1494,2818,3724,1
+177,35574105,Miller,Smith,Michael,25,"35291 Keller Port Apt. 006
+New Anthonyburgh, LA 02710",+51 941568532,kathryntaylor@example.net,24005,Femenino,Casado,Primaria,Psychiatrist,1967-08-01,Sudan,Indiana,Christopherport,Hospital Central,Privado,2024-06-08,Cardiopatía,4,10,88.4,1.78,25.9,94/64,62,12,38.5,O,+,Alimentos,2,No,7,2024-09-14,14,3,Ninguno,No,Sí,2,1,1454,7274,2464,5
+178,18437581,Mitchell,Anderson,Crystal,27,"73325 Jennifer Freeway Apt. 201
+West Staceyport, MP 86657",+51 964193837,tammygonzalez@example.net,43500,Masculino,Casado,Universitario,Logistics and distribution manager,1958-01-13,Saint Kitts and Nevis,Indiana,Melissaville,Clínica Salud,Privado,2023-04-27,Diabetes,4,8,88.3,2.0,19.0,127/67,85,15,36.8,B,+,Alimentos,1,No,5,2024-03-25,6,1,Ninguno,Sí,No,9,2,970,6989,1441,1
+179,65968677,Delgado,Frederick,Jeanette,58,"6698 Wood Mews
+Stanleyview, MI 70041",+51 926090908,ublevins@example.com,41010,Femenino,Soltero,Técnico,Barrister,1964-05-06,Western Sahara,Illinois,Port Joseph,Clínica Salud,Mixto,2020-03-17,Cardiopatía,1,1,98.9,1.61,20.7,123/81,64,18,38.7,AB,-,Ninguna,1,No,9,2024-09-03,0,5,Frecuente,Sí,Sí,10,2,1792,8624,3572,5
+180,87794293,Miller,Morrow,Shannon,28,"96989 Holly Mount Suite 484
+Beckerside, OH 27800",+51 986460539,wendy48@example.net,21120,Femenino,Viudo,Secundaria,Production engineer,1980-06-03,Tonga,Iowa,Garyshire,Clínica Salud,Público,2023-12-20,Ninguno,1,3,82.3,1.84,27.4,118/60,89,17,38.7,B,-,Medicamentos,1,Sí,8,2024-03-05,12,7,Ocasional,Sí,Sí,2,10,523,1669,3493,2
+181,85274295,Moss,Gentry,Teresa,68,"69894 Jeffery Centers
+South Claudiastad, SC 45708",+51 943046464,nancysanchez@example.org,15557,Femenino,Divorciado,Primaria,"Journalist, magazine",2003-11-10,Niue,Michigan,South Joe,Clínica Salud,Público,2020-03-03,Ninguno,5,9,71.0,1.92,39.2,90/82,78,14,36.2,A,+,Polen,1,No,7,2024-04-12,11,2,Ocasional,No,No,4,5,232,6989,1243,2
+182,69696760,Adams,Smith,Leonard,61,"1100 Smith Crescent Apt. 629
+Barbaramouth, SD 84844",+51 987701200,hjohnson@example.org,28598,Masculino,Viudo,Universitario,Television camera operator,1989-06-17,Sweden,North Dakota,Arielfurt,Hospital Central,Mixto,2023-08-19,Ninguno,4,4,99.6,1.83,21.0,111/86,79,14,37.2,O,+,Medicamentos,2,Sí,6,2024-05-22,4,7,Ocasional,No,Sí,8,8,1197,7003,4910,3
+183,53286711,Pruitt,Lara,Sarah,45,"57744 Sara Causeway
+Lake Karen, MD 53347",+51 989795010,jeremy98@example.org,43780,Masculino,Viudo,Primaria,Animator,1954-12-19,Senegal,South Carolina,Port Jaystad,Clínica Salud,Mixto,2021-09-18,Ninguno,5,9,69.1,1.93,38.7,97/87,80,15,37.2,AB,-,Ninguna,0,No,2,2024-04-03,8,9,Ocasional,Sí,No,2,1,365,3871,4998,2
+184,26240201,Carlson,Rodriguez,Douglas,56,"8299 Gregory Skyway Apt. 632
+Smithmouth, ME 74128",+51 915334035,lbolton@example.com,31966,Femenino,Soltero,Secundaria,"Teacher, music",1959-01-24,Kiribati,Kansas,Bakerchester,Clínica Salud,Mixto,2024-06-10,Cardiopatía,4,6,93.5,1.88,21.5,117/82,65,17,37.0,B,-,Ninguna,1,Sí,2,2024-04-09,1,1,Frecuente,Sí,No,9,8,213,2097,805,5
+185,29273414,Marshall,Herring,Leslie,22,"24417 Steven Manor Apt. 823
+Port Jennifer, DC 80618",+51 993131979,kristen42@example.org,16120,Masculino,Viudo,Primaria,Music tutor,1958-03-25,China,New Hampshire,Petersonville,Centro Médico Familiar,Privado,2024-12-01,Hipertensión,2,8,95.3,1.55,25.2,98/75,95,17,36.8,AB,-,Polen,3,No,0,2024-10-18,15,9,Ninguno,Sí,No,10,3,214,4354,1276,1
+186,79947553,Stone,Anderson,Mark,42,"0202 Jose Passage Apt. 973
+Port Natalieshire, LA 42837",+51 921003626,juliabartlett@example.org,25392,Femenino,Viudo,Primaria,Gaffer,1948-03-09,Jersey,Nebraska,New Kristinland,Clínica Salud,Público,2020-07-21,Ninguno,4,9,68.8,1.69,28.3,94/67,89,12,37.4,A,+,Ninguna,2,No,2,2024-04-15,14,10,Ninguno,No,No,5,1,567,3267,1802,1
+187,64664532,Bell,Ellison,Hannah,42,"5776 Cobb Trace Suite 702
+Port Michael, MA 19716",+51 966267415,adamsshannon@example.org,30343,Masculino,Divorciado,Técnico,Broadcast engineer,1979-10-17,Botswana,Maryland,Bakerborough,Centro Médico Familiar,Público,2022-11-24,Ninguno,0,7,84.1,1.78,22.9,114/62,60,17,38.6,A,-,Ninguna,0,Sí,3,2024-04-20,9,4,Ocasional,Sí,Sí,10,1,382,6487,2584,2
+188,78874890,Shepard,Ayala,Susan,56,"903 Pittman Fort
+West Kimberlytown, NM 35379",+51 998231132,johnsonanna@example.net,24722,Femenino,Casado,Secundaria,Ship broker,1999-12-05,Dominican Republic,Michigan,Smithburgh,Centro Médico Familiar,Público,2022-10-28,Cardiopatía,0,6,83.1,1.53,28.9,136/85,83,14,38.4,O,-,Polen,3,Sí,10,2024-11-13,15,0,Frecuente,Sí,Sí,1,7,1647,4909,3988,5
+189,20774308,Fitzgerald,Weeks,Adam,47,"USCGC Torres
+FPO AE 31570",+51 988339168,watkinsbrittany@example.org,23050,Femenino,Divorciado,Secundaria,TEFL teacher,1979-03-11,Greenland,Wisconsin,Brandonborough,Hospital Central,Público,2022-12-20,Cardiopatía,0,3,77.0,1.5,28.7,96/63,72,15,37.9,AB,-,Polen,3,No,4,2024-05-03,6,9,Ocasional,No,Sí,6,5,1534,9841,4403,4
+190,12507094,Smith,Webster,Joseph,51,"47901 Anderson Freeway
+East Chelsea, VT 84384",+51 985863473,kweaver@example.com,19656,Femenino,Divorciado,Secundaria,Water quality scientist,2001-05-11,French Guiana,Minnesota,Lewisberg,Hospital Central,Público,2020-12-30,Diabetes,0,8,82.7,1.59,27.9,110/71,78,19,37.6,B,+,Alimentos,3,No,1,2024-02-02,5,6,Ocasional,Sí,No,9,3,1415,2860,2847,3
+191,20952261,Smith,Horton,William,34,"24628 Moon Pine Suite 766
+Walkerbury, MA 21869",+51 980166708,lpowell@example.com,11600,Femenino,Viudo,Primaria,Pensions consultant,1966-05-22,Jordan,New Jersey,Martinezbury,Hospital Central,Público,2020-11-04,Ninguno,5,9,67.4,1.75,33.5,109/64,96,20,37.3,B,-,Ninguna,1,No,3,2024-09-08,11,1,Frecuente,No,No,1,6,781,8839,641,5
+192,52058185,Brown,Wilson,Lisa,80,"297 Bennett Rapids
+Josephport, AS 80033",+51 952462441,llee@example.net,13028,Femenino,Viudo,Secundaria,Estate manager/land agent,1963-05-05,Croatia,Montana,South Jasonburgh,Hospital Central,Mixto,2021-01-09,Diabetes,4,6,58.9,1.72,25.4,114/84,79,16,37.2,B,+,Polen,1,Sí,2,2024-09-19,10,0,Ocasional,No,No,8,7,1052,4437,4938,2
+193,72640514,Garcia,Patterson,Emily,53,"90113 Thomas Springs Apt. 775
+Jasontown, CT 95878",+51 944999379,harrisbrittany@example.org,26046,Femenino,Divorciado,Secundaria,Neurosurgeon,1985-01-15,Costa Rica,Arkansas,North Alexander,Centro Médico Familiar,Mixto,2022-12-08,Ninguno,2,9,76.9,1.89,25.0,138/87,99,14,36.4,O,+,Alimentos,3,No,6,2024-09-10,14,5,Ninguno,Sí,Sí,8,10,1620,4693,3178,4
+194,87684907,Thornton,Benson,Russell,73,"158 Stone Greens
+New Jennifer, MS 78410",+51 937415205,matthewwaters@example.net,41138,Femenino,Divorciado,Secundaria,"Designer, industrial/product",1968-06-13,Palestinian Territory,Colorado,Paceland,Hospital Central,Privado,2023-02-11,Hipertensión,5,6,76.4,1.78,35.9,98/80,75,19,37.8,A,-,Ninguna,0,Sí,1,2024-09-13,8,5,Frecuente,Sí,No,9,1,1853,6250,824,1
+195,50429839,Knapp,Bender,Kathryn,78,"528 Cochran Summit
+Adamshaven, FM 21541",+51 999889098,nalvarado@example.org,14772,Femenino,Viudo,Técnico,Medical secretary,1957-10-11,Czech Republic,Nevada,Mcintoshtown,Centro Médico Familiar,Mixto,2020-11-23,Cardiopatía,1,5,86.4,1.93,21.0,133/64,89,12,38.3,B,-,Polen,1,Sí,1,2024-11-17,5,6,Ocasional,No,No,8,9,1822,6778,154,2
+196,94046175,Hopkins,Pope,Isaac,18,"PSC 4364, Box 7510
+APO AE 82826",+51 952169044,flarsen@example.net,39846,Femenino,Casado,Secundaria,"Engineer, maintenance",1999-04-01,Latvia,Maryland,Craigview,Hospital Central,Mixto,2020-08-28,Cardiopatía,4,10,61.1,1.55,36.8,94/76,83,13,38.8,O,+,Ninguna,0,No,1,2024-03-21,2,6,Ninguno,No,No,10,8,1782,5380,3454,3
+197,98429342,Lozano,Ferguson,Joyce,61,"3930 Hanna Shoal Apt. 327
+Jonathanhaven, CO 93295",+51 942035886,leetimothy@example.org,37160,Femenino,Casado,Primaria,Insurance account manager,1957-06-06,Australia,New Hampshire,Duncanville,Clínica Salud,Público,2022-03-04,Diabetes,3,8,50.2,1.76,32.4,126/60,97,12,38.8,O,+,Alimentos,1,Sí,7,2024-02-07,4,1,Frecuente,No,No,6,8,1174,9250,2339,4
+198,51129270,Price,Huber,Anne,64,"4882 Mark Extensions Apt. 557
+West Julie, RI 52856",+51 945650176,gregoryreynolds@example.net,47727,Femenino,Divorciado,Técnico,Warehouse manager,1968-12-19,Croatia,North Dakota,Clarkberg,Clínica Salud,Privado,2023-05-28,Diabetes,4,4,51.1,1.52,33.1,129/80,91,15,37.7,O,+,Medicamentos,1,Sí,8,2024-12-04,14,3,Ocasional,No,Sí,7,7,1617,7929,3495,4
+199,12900453,Christensen,Carpenter,Thomas,25,"56707 Jasmin Throughway Apt. 937
+Chandlerside, MT 05615",+51 963121477,james95@example.com,22742,Masculino,Casado,Secundaria,Dancer,1973-06-27,Uruguay,Massachusetts,Bradleybury,Centro Médico Familiar,Público,2024-02-17,Cardiopatía,5,4,64.9,1.61,22.0,100/74,72,15,36.3,O,-,Ninguna,1,Sí,0,2024-05-15,9,10,Ocasional,Sí,Sí,6,7,459,5540,1532,2
+200,50864167,Cain,Kim,Donald,61,"6053 Joseph Oval
+Jordanmouth, DE 04646",+51 927566185,cathy18@example.net,35164,Masculino,Divorciado,Secundaria,"Administrator, sports",1960-01-28,Aruba,Alabama,Lake Kimberly,Clínica Salud,Privado,2023-04-26,Cardiopatía,0,5,83.7,1.93,39.7,112/83,94,12,36.9,O,+,Ninguna,0,No,0,2024-09-08,8,9,Ninguno,No,No,5,2,622,1892,4653,5
